@@ -104,7 +104,7 @@ Other forensics examples:
 
 * Melanie Ehrenkranz, [How Archivists Could Stop Deepfakes From Rewriting History](https://gizmodo.com/how-archivists-could-stop-deepfakes-from-rewriting-hist-1829666009), 2018.
 
-* Kate Starbird, [The Surprising Nuance Behind the Russian Troll Strategy](https://medium.com/s/story/the-trolls-within-how-russian-information-operations-infiltrated-online-communities-691fb969b9e40, 2018.
+* Kate Starbird, [The Surprising Nuance Behind the Russian Troll Strategy](https://medium.com/s/story/the-trolls-within-how-russian-information-operations-infiltrated-online-communities-691fb969b9e40), 2018.
 
 * Louise Lief, [What the news media can learn from librarians](https://www.cjr.org/innovations/librarians_journalism_lessons.php), Columbia Journalism Review, 2016.
 
@@ -115,6 +115,5 @@ Other forensics examples:
 * Clifford Lynch, [Managing the Cultural Record in the Information Warfare Era](https://er.educause.edu/articles/2018/10/managing-the-cultural-record-in-the-information-warfare-era), EDUCAUSE Review 53(6), 2018.
 
 ### Current Events
-
-* [#cs895f0](https://twitter.com/search?f=tweets&vertical=default&q=%23cs895f20&src=typd)
+* [#cs895f20](https://twitter.com/search?f=tweets&vertical=default&q=%23cs895f20&src=typd)
 
