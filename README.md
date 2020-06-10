@@ -50,7 +50,6 @@ Other forensics examples:
 * Week 8 - October 8 - Student Presentation 4
 
 * Week 9 - October 15 - Student Presentation 5
-Forensics Studies 2
 
 * Week 10 - October 22 - Student Presentation 6
 
