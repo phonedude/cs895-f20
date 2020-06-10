@@ -29,6 +29,8 @@ Other forensics examples:
 
 * [Trying to locate the MARS File Format Specification](https://twitter.com/phonedude_mln/status/1229904580227543045).
 
+* [Dominic Cummings claiming he warned about a coronavirus in 2019](https://twitter.com/jwiechers/status/1264953956758884354)
+
 * [The interaction between search engine caches and web archives](https://ws-dl.blogspot.com/2019/10/2019-10-28-interaction-between-search.html).
 
 ### Class Schedule (subject to change)
