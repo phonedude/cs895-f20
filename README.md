@@ -13,7 +13,7 @@ Class Email list: [https://groups.google.com/group/cs895-f20](https://groups.goo
 
 ### Course Objectives
 
-After a review of the protocols and mechanics of web archiving and social media, this class will focus on using web archives to establish the veracity of information that we experience online.  The class will stress student participation and presentation.  Students will summarize the research work of others (chosen from a reading list), as well as propose their own forensics studies in areas of their own interest.  An example of some of the resources resulting from the prior offering of this course include:
+After a review of the protocols and mechanics of web archiving and social media, this class will focus on using web archives to establish the veracity of information that we experience online.  The class will stress student participation and presentation.  Students will summarize the research work of others (chosen from a reading list), as well as propose their own forensics studies in areas of their own interest.  Examples of some of the resources resulting from the prior offering of this course include:
 
 * Michael L. Nelson, [Russell Westbrook, Shane Keisel, Fake Twitter Accounts, and Web Archives](https://ws-dl.blogspot.com/2019/04/2019-04-17-russell-westbrook-shane.html), 2019.
 
