@@ -115,6 +115,5 @@ Other forensics examples:
 * Clifford Lynch, [Managing the Cultural Record in the Information Warfare Era](https://er.educause.edu/articles/2018/10/managing-the-cultural-record-in-the-information-warfare-era), EDUCAUSE Review 53(6), 2018.
 
 ### Current Events
-
-* [#cs895f0](https://twitter.com/search?f=tweets&vertical=default&q=%23cs895f20&src=typd)
+* [#cs895f20](https://twitter.com/search?f=tweets&vertical=default&q=%23cs895f20&src=typd)
 
