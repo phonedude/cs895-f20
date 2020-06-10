@@ -33,7 +33,7 @@ Other forensics examples:
 
 ### Class Schedule (subject to change)
 
-* Week 1 - August 20 - The W3C Web Architecture, Memento Protocol, and Research Issues With Web Archiving
+* Week 1 - August 20 - [The W3C Web Architecture, Memento Protocol, and Research Issues With Web Archiving](https://raw.githubusercontent.com/phonedude/cs895-s19/master/slides/week-01-web-arch-memento.pptx)
 
 * Week 2 - August 27 - Continued: The W3C Web Architecture, Memento Protocol, and Research Issues With Web Archiving
 
