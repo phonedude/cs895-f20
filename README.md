@@ -35,35 +35,35 @@ Other forensics examples:
 
 ### Class Schedule (subject to change)
 
-* Week 1 - August 20 - [The W3C Web Architecture, Memento Protocol, and Research Issues With Web Archiving](https://raw.githubusercontent.com/phonedude/cs895-s19/master/slides/week-01-web-arch-memento.pptx)
+* Week 1 - September 3 - [The W3C Web Architecture, Memento Protocol, and Research Issues With Web Archiving](https://raw.githubusercontent.com/phonedude/cs895-s19/master/slides/week-01-web-arch-memento.pptx)
 
-* Week 2 - August 27 - Continued: The W3C Web Architecture, Memento Protocol, and Research Issues With Web Archiving
+* Week 2 - September 10 - Continued: The W3C Web Architecture, Memento Protocol, and Research Issues With Web Archiving
 
-* Week 3 - September 3 - [Weaponized Web Archives: Provenance Laundering of Short Order Evidence](https://www.slideshare.net/phonedude/weaponized-web-archives-provenance-laundering-of-short-order-evidence-121503918), [Blockchain Can Not Be Used To Verify Replayed Archived Web Pages](https://www.slideshare.net/phonedude/blockchain-can-not-be-used-to-verify-replayed-archived-web-pages-125618706)
+* Week 3 - September 17 - [Weaponized Web Archives: Provenance Laundering of Short Order Evidence](https://www.slideshare.net/phonedude/weaponized-web-archives-provenance-laundering-of-short-order-evidence-121503918), [Blockchain Can Not Be Used To Verify Replayed Archived Web Pages](https://www.slideshare.net/phonedude/blockchain-can-not-be-used-to-verify-replayed-archived-web-pages-125618706)
 
-* Week 4 - September 10 - Student Presentation 1
+* Week 4 - September 24 - Student Presentation 1
 
-* Week 5 - September 17 - Student Presentation 2
+* Week 5 - October 1 - Student Presentation 2
 
-* Week 6 - September 24 - Student Presentation 3
+* Week 6 - October 15 - Student Presentation 3
 
-* Week 7 - October 1 - Student Forensics Studies 1
+* Week 7 - October 22 - Student Forensics Studies 1
 
-* Week 8 - October 8 - Student Presentation 4
+* Week 8 - October 29 - Student Presentation 4
 
-* Week 9 - October 15 - Student Presentation 5
+* Week 9 - November 5 - Student Presentation 5
 
-* Week 10 - October 22 - Student Presentation 6
+* Week 10 - November 12 - Student Presentation 6
 
-* Week 11 - October 29 - Student Forensics Studies 2
+* Week 11 - November 19 - Student Forensics Studies 2
 
-* Week 12 - November 5 - Student Presentation 7
+* Week 12 - November 26 - Thanksgiving Holiday -- no class
 
-* Week 13 - November 12 - Student Presentation  8
+* Week 13 - December 3 - Student Presentation 7
 
-* Week 14 - November 19 - Student Forensics Studies 3
+* Week 14 - December 10 - Student Presentation 8
 
-* Week 15 - November 26 - Thanksgiving -- End of Semester
+* Week 15 - December 17 - Student Forensics Studies 3
 
 ### Unassigned Readings (Subject to change; suggestions welcome)
 
