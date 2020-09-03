@@ -41,6 +41,8 @@ Other forensics examples:
 
 * [Trump appointee at USAID repeatedly made anti-immigrant and anti-LGBTQ comments, said 'female empowerment is a civilizational calamity'](https://www.cnn.com/2020/06/29/politics/merritt-corrigan-usaid/index.html).
 
+* [The Internet Archive Is Being Used As A Disinformation Mule](https://medium.com/@_C_3PJoe/the-internet-archive-is-being-used-as-a-disinformation-mule-fc90a6d07ced).
+
 ### Class Schedule (subject to change)
 
 * Week 1 - September 3 - [The W3C Web Architecture, Memento Protocol, and Research Issues With Web Archiving](https://raw.githubusercontent.com/phonedude/cs895-f20/master/slides/week-01-web-arch-memento.pptx)
@@ -122,8 +124,7 @@ Other forensics examples:
 
 * Melanie Smith, [Archives: Facebook Finds “Coordinated and Inauthentic Behavior” In the Philippines; Suspends a Set of Pro-Government Pages Ahead of May Elections](https://medium.com/graphika-team/archives-facebook-finds-coordinated-and-inauthentic-behavior-in-the-philippines-suspends-a-set-d02f41f527df), 2019.
 
-* Justin Littman, [Vulnerabilities in the U.S. Digital Registry, Twitter, and the Internet Archive](https://gwu-libraries.github.io/sfm-ui/posts/2017-11-06-vulnerabilities
-), 2017
+* Justin Littman, [Vulnerabilities in the U.S. Digital Registry, Twitter, and the Internet Archive](https://gwu-libraries.github.io/sfm-ui/posts/2017-11-06-vulnerabilities), 2017; Justin Littman, [Suspended U.S. government Twitter accounts](https://gwu-libraries.github.io/sfm-ui/posts/2017-11-04-digital-registry), 2017
 
 * Mohamed Aturban, Michele C. Weigle, Michael L. Nelson, [Difficulties of Timestamping Archived Web Pages](https://arxiv.org/abs/1712.03140), Technical Report arXiv:1712.03140, 2017.
 
