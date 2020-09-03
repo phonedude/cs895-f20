@@ -40,7 +40,7 @@ Other forensics examples:
 * Week 2 - September 10 - Continued: The W3C Web Architecture, Memento Protocol, and Research Issues With Web Archiving
 
 * Week 3 - September 17 - [Web Archives at the Nexus of Good Fakes and Flawed Originals](https://www.slideshare.net/phonedude/web-archives-at-the-nexus-of-good-fakes-and-flawed-originals-229937247), [Russell Westbrook, Shane Keisel, Fake Twitter Accounts, and Web Archives](https://ws-dl.blogspot.com/2019/04/2019-04-17-russell-westbrook-shane.html)
-** Background: [Weaponized Web Archives: Provenance Laundering of Short Order Evidence](https://www.slideshare.net/phonedude/weaponized-web-archives-provenance-laundering-of-short-order-evidence-121503918), [Blockchain Can Not Be Used To Verify Replayed Archived Web Pages](https://www.slideshare.net/phonedude/blockchain-can-not-be-used-to-verify-replayed-archived-web-pages-125618706)
+  * Background: [Weaponized Web Archives: Provenance Laundering of Short Order Evidence](https://www.slideshare.net/phonedude/weaponized-web-archives-provenance-laundering-of-short-order-evidence-121503918), [Blockchain Can Not Be Used To Verify Replayed Archived Web Pages](https://www.slideshare.net/phonedude/blockchain-can-not-be-used-to-verify-replayed-archived-web-pages-125618706)
 
 * Week 4 - September 24 - Student Presentation 1
 
