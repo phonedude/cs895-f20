@@ -39,31 +39,32 @@ Other forensics examples:
 
 * Week 2 - September 10 - Continued: The W3C Web Architecture, Memento Protocol, and Research Issues With Web Archiving
 
-* Week 3 - September 17 - [Weaponized Web Archives: Provenance Laundering of Short Order Evidence](https://www.slideshare.net/phonedude/weaponized-web-archives-provenance-laundering-of-short-order-evidence-121503918), [Blockchain Can Not Be Used To Verify Replayed Archived Web Pages](https://www.slideshare.net/phonedude/blockchain-can-not-be-used-to-verify-replayed-archived-web-pages-125618706)
+* Week 3 - September 17 - [Web Archives at the Nexus of Good Fakes and Flawed Originals](https://www.slideshare.net/phonedude/web-archives-at-the-nexus-of-good-fakes-and-flawed-originals-229937247), [Russell Westbrook, Shane Keisel, Fake Twitter Accounts, and Web Archives](https://ws-dl.blogspot.com/2019/04/2019-04-17-russell-westbrook-shane.html)
+** Background: [Weaponized Web Archives: Provenance Laundering of Short Order Evidence](https://www.slideshare.net/phonedude/weaponized-web-archives-provenance-laundering-of-short-order-evidence-121503918), [Blockchain Can Not Be Used To Verify Replayed Archived Web Pages](https://www.slideshare.net/phonedude/blockchain-can-not-be-used-to-verify-replayed-archived-web-pages-125618706)
 
 * Week 4 - September 24 - Student Presentation 1
 
 * Week 5 - October 1 - Student Presentation 2
 
-* Week 6 - October 15 - Student Presentation 3
+* Week 6 - October 15 - Student Forensics Studies 1
 
-* Week 7 - October 22 - Student Forensics Studies 1
+* Week 7 - October 22 - Student Forensics Studies 2
 
-* Week 8 - October 29 - Student Presentation 4
+* Week 8 - October 29 - Student Presentation 3
 
-* Week 9 - November 5 - Student Presentation 5
+* Week 9 - November 5 - Student Presentation 4
 
-* Week 10 - November 12 - Student Presentation 6
+* Week 10 - November 12 - Student Forensics Studies 3
 
-* Week 11 - November 19 - Student Forensics Studies 2
+* Week 11 - November 19 - Student Forensics Studies 4
 
 * Week 12 - November 26 - Thanksgiving Holiday -- no class
 
-* Week 13 - December 3 - Student Presentation 7
+* Week 13 - December 3 - Student Presentation 5
 
-* Week 14 - December 10 - Student Presentation 8
+* Week 14 - December 10 - Student Presentation 6
 
-* Week 15 - December 17 - Student Forensics Studies 3
+* Week 15 - December 17 - Student Forensics Studies 5
 
 ### Unassigned Readings (Subject to change; suggestions welcome)
 
@@ -88,7 +89,7 @@ Other forensics examples:
 * Justin Littman, [Vulnerabilities in the U.S. Digital Registry, Twitter, and the Internet Archive](https://gwu-libraries.github.io/sfm-ui/posts/2017-11-06-vulnerabilities
 ), 2017
 
-* Mohamed Aturban, Michele C. Weigle, Michael L. Nelson, Difficulties of Timestamping Archived Web Pages, Technical Report arXiv:1712.03140, 2017.
+* Mohamed Aturban, Michele C. Weigle, Michael L. Nelson, [Difficulties of Timestamping Archived Web Pages](https://arxiv.org/abs/1712.03140), Technical Report arXiv:1712.03140, 2017.
 
 * Scott G. Ainsworth, Michael L. Nelson, Herbert Van de Sompel, [Only One Out of Five Archived Web Pages Existed as Presented](https://ws-dl.blogspot.com/2015/12/2015-12-08-evaluating-temporal.html), Proceedings of Hypertext 2015, 2015.
 
@@ -115,6 +116,8 @@ Other forensics examples:
 * Ed Summers, [Blacktivists in the Archive](https://news.docnow.io/blacktivists-in-the-archive-71c807aa247e), 2017.
 
 * Clifford Lynch, [Managing the Cultural Record in the Information Warfare Era](https://er.educause.edu/articles/2018/10/managing-the-cultural-record-in-the-information-warfare-era), EDUCAUSE Review 53(6), 2018.
+
+* Nicholas Confessore, Gabriel J.X. Dance, Rich Harris and Mark Hansen, [The Follower Factory](https://www.nytimes.com/interactive/2018/01/27/technology/social-media-bots.html), The New York Times, January 27, 2018.
 
 ### Current Events
 * [#cs895f20](https://twitter.com/search?f=tweets&vertical=default&q=%23cs895f20&src=typd)
