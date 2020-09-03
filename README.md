@@ -23,6 +23,8 @@ After a review of the protocols and mechanics of web archiving and social media,
 
 Other forensics examples:
 
+* [The Conservative Party Speeches and Why We Need Multiple Web Archives](https://ws-dl.blogspot.com/2013/11/2013-11-21-conservative-party-speeches.html)
+
 * [Links to abovethelaw.com broken on the live web and blocked from the archive](https://twitter.com/phonedude_mln/status/1229159766154514432). 
 
 * [Web archives and the fake University of Farmington](https://twitter.com/phonedude_mln/status/1092464939040755712).
@@ -33,11 +35,19 @@ Other forensics examples:
 
 * [The interaction between search engine caches and web archives](https://ws-dl.blogspot.com/2019/10/2019-10-28-interaction-between-search.html).
 
+* [GOP candidate Marjorie Taylor Greene spread conspiracies about Charlottesville and 'Pizzagate'](https://www.cnn.com/2020/08/25/politics/kfile-marjorie-greene-spread-conspiracies/index.html). 
+
+* [Right-Wing Media Outlets Duped by a Middle East Propaganda Campaign](https://www.thedailybeast.com/right-wing-media-outlets-duped-by-a-middle-east-propaganda-campaign).
+
+* [Trump appointee at USAID repeatedly made anti-immigrant and anti-LGBTQ comments, said 'female empowerment is a civilizational calamity'](https://www.cnn.com/2020/06/29/politics/merritt-corrigan-usaid/index.html).
+
 ### Class Schedule (subject to change)
 
 * Week 1 - September 3 - [The W3C Web Architecture, Memento Protocol, and Research Issues With Web Archiving](https://raw.githubusercontent.com/phonedude/cs895-f20/master/slides/week-01-web-arch-memento.pptx)
+  * Background: [Memento 101](https://www.slideshare.net/hvdsomp/memento-101), [UTC](https://en.wikipedia.org/wiki/Coordinated_Universal_Time), [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601), [robots.txt](https://www.robotstxt.org/), [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 * Week 2 - September 10 - Continued: The W3C Web Architecture, Memento Protocol, and Research Issues With Web Archiving
+  * Background: [Academic Communication (presenting)](https://docs.google.com/presentation/d/1Ec3MHCGB99TqsRTelyy5EcjQWeLjA5v5tZl9zABadko/edit), [On the Importance of Web Archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/)
 
 * Week 3 - September 17 - [Web Archives at the Nexus of Good Fakes and Flawed Originals](https://www.slideshare.net/phonedude/web-archives-at-the-nexus-of-good-fakes-and-flawed-originals-229937247), [Russell Westbrook, Shane Keisel, Fake Twitter Accounts, and Web Archives](https://ws-dl.blogspot.com/2019/04/2019-04-17-russell-westbrook-shane.html)
   * Background: [Weaponized Web Archives: Provenance Laundering of Short Order Evidence](https://www.slideshare.net/phonedude/weaponized-web-archives-provenance-laundering-of-short-order-evidence-121503918), [Blockchain Can Not Be Used To Verify Replayed Archived Web Pages](https://www.slideshare.net/phonedude/blockchain-can-not-be-used-to-verify-replayed-archived-web-pages-125618706)
@@ -66,7 +76,33 @@ Other forensics examples:
 
 * Week 15 - December 17 - Student Forensics Studies 5
 
-### Unassigned Readings (Subject to change; suggestions welcome)
+### Unassigned Readings (Subject to change; in no particular order; suggestions welcome)
+
+* Mary Huber, [Chinese Citizens Find Ways to Circumvent COVID-19 Censorship](https://medium.com/good-systems/chinese-citizens-find-ways-to-circumvent-covid-19-censorship-e8934e978158), 2020.
+
+* Donie O'Sullivan, [How We Proved That the Biggest Black Lives Matter Page on Facebook Was Fake](https://gijn.org/2020/08/31/how-we-proved-that-the-biggest-black-lives-matter-page-on-facebook-was-fake/), 2020.
+
+* Kate Starbird, Carly Miller, [Examining Twitter’s policy against election-related misinformation in action](https://www.eipartnership.net/news/twitters-policy-election-misinfo-in-action), 2020.
+
+* L Chai, D Bau, SN Lim, P Isola. [What makes fake images detectable? Understanding properties that generalize](https://chail.github.io/patch-forensics/), European Conference on Computer Vision, 2020.
+
+* Andy Greenberg, [Hackers Broke Into Real News Sites to Plant Fake Stories](https://www.wired.com/story/hackers-broke-into-real-news-sites-to-plant-fake-stories-anti-nato/), 2020.
+
+* Russell Brandom, [Researchers uncover six-year Russian misinformation campaign across Facebook and Reddit](https://www.theverge.com/2020/6/16/21292982/russian-troll-campaign-facebook-reddit-twitter-misinformation), 2020.
+
+* Joan Donovan, [Protest misinformation is riding on the success of pandemic hoaxes](https://www.technologyreview.com/2020/06/10/1002934/protest-propaganda-is-riding-on-the-success-of-pandemic-hoaxes/), 2020.
+
+* Joan Donovan, Brian Friedberg, [Source Hacking: Media Manipulation in Practice](https://datasociety.net/wp-content/uploads/2019/09/Source-Hacking_Hi-res.pdf), 2019.
+
+* Renee DiResta, Isabella García-Camargo, [Virality Project (US): Marketing meets Misinformation](https://cyber.fsi.stanford.edu/io/news/manufacturing-influence-0), 2020.
+
+* Caroline Orr, [Pro-Trump & Russian-Linked Twitter Accounts Are Posing As Ex-Democrats In New Astroturfed Movement](https://arcdigital.media/pro-trump-russian-linked-twitter-accounts-are-posing-as-ex-democrats-in-new-astroturfed-movement-20359c1906d3), 2018.
+
+* Takuya Watanabe, Eitaro Shioji, Mitsuaki Akiyama, and Tatsuya Mori, [Melting Pot of Origins: Compromising the Intermediary Web Services that Rehost Websites](https://www.ndss-symposium.org/ndss-paper/melting-pot-of-origins-compromising-the-intermediary-web-services-that-rehost-websites/), Proceedings of NDSS 2020.  
+
+* Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Michael Sirivianos, Gianluca Stringhini, [Understanding Web Archiving Services and Their (Mis)Use on Social Media](https://arxiv.org/abs/1801.10396), Proceedings of ICWSM 2018.
+
+* Jack Cushman, Ilya Kreymer, [Thinking like a hacker: Security Considerations for High-Fidelity Web Archives](http://labs.rhizome.org/presentations/security.html), 2017; Ada Lerner, Tadayoshi Kohno, Franziska Roesner, [Rewriting history: Changing the archived web from the present](https://acmccs.github.io/papers/p1741-lernerAT3.pdf), Proceedings of the 2017 ACM SIGSAC, 2017.
 
 * Ahmer Arif, Leo Graiden Stewart, Kate Starbird, [Acting the Part: Examining Information Operations Within# BlackLivesMatter Discourse](https://doi.org/10.1145/3274289), Proceedings of the ACM on Human-Computer Interaction - CSCW, 2018.
 
@@ -74,7 +110,7 @@ Other forensics examples:
 
 * Clifford Lynch, [Stewardship in the 'Age of Algorithms'](https://journals.uic.edu/ojs/index.php/fm/article/view/8097/6583) First Monday 22(12), 2017.
 
-* Luca Luceri, Ashok Deb, Adam Badawy, Emilio Ferrara , [Red Bots Do It Better: Comparative Analysis of Social Bot Partisan Behavior](https://arxiv.org/abs/1902.02765), Technical Report arXiv:1902.02765, 2019. 
+* Luca Luceri, Ashok Deb, Adam Badawy, Emilio Ferrara, [Red Bots Do It Better: Comparative Analysis of Social Bot Partisan Behavior](https://arxiv.org/abs/1902.02765), Technical Report arXiv:1902.02765, 2019. 
 
 * Xinyi Zhou, Reza Zafarani, [Fake News: A Survey of Research, Detection Methods, and Opportunities](https://arxiv.org/abs/1812.00315),  Technical Report arXiv:1812.00315, 2018.
 
@@ -93,8 +129,6 @@ Other forensics examples:
 
 * Scott G. Ainsworth, Michael L. Nelson, Herbert Van de Sompel, [Only One Out of Five Archived Web Pages Existed as Presented](https://ws-dl.blogspot.com/2015/12/2015-12-08-evaluating-temporal.html), Proceedings of Hypertext 2015, 2015.
 
-* Jack Cushman, Ilya Kreymer, [Thinking like a hacker: Security Considerations for High-Fidelity Web Archives](http://labs.rhizome.org/presentations/security.html), 2017.
-
 * Jennifer Golbeck et al., [Fake News vs Satire: A Dataset and Analysis](https://github.com/jgolbeck/fakenews), Proceedings of the 10th ACM Conference on Web Science, 2018.
 
 * Amelia Acker, [Data Craft: The Manipulation of Social Media Metadata](https://datasociety.net/output/data-craft/), 2018.
@@ -103,7 +137,7 @@ Other forensics examples:
 
 * Michael L. Nelson, [Why we need multiple web archives: the case of blog.reidreport.com](https://ws-dl.blogspot.com/2018/04/2018-04-24-why-we-need-multiple-web.html), 2018.
 
-* Mohammed Nauman Siddique, ["Grampa, what's a deleted tweet?"](https://ws-dl.blogspot.com/2018/04/2018-04-23-grampa-whats-deleted-tweet.html), 2018.
+* Mohammed Nauman Siddique, ["Grampa, what's a deleted tweet?"](https://ws-dl.blogspot.com/2018/04/2018-04-23-grampa-whats-deleted-tweet.html), 2018; Ed Summers, [Delete Forensics](https://inkdroid.org/2017/08/18/delete-forensics/), 2017.
 
 * Melanie Ehrenkranz, [How Archivists Could Stop Deepfakes From Rewriting History](https://gizmodo.com/how-archivists-could-stop-deepfakes-from-rewriting-hist-1829666009), 2018.
 
@@ -111,13 +145,13 @@ Other forensics examples:
 
 * Louise Lief, [What the news media can learn from librarians](https://www.cjr.org/innovations/librarians_journalism_lessons.php), Columbia Journalism Review, 2016.
 
-* Ed Summers, [Delete Forensics](https://inkdroid.org/2017/08/18/delete-forensics/), 2017.
-
 * Ed Summers, [Blacktivists in the Archive](https://news.docnow.io/blacktivists-in-the-archive-71c807aa247e), 2017.
 
 * Clifford Lynch, [Managing the Cultural Record in the Information Warfare Era](https://er.educause.edu/articles/2018/10/managing-the-cultural-record-in-the-information-warfare-era), EDUCAUSE Review 53(6), 2018.
 
 * Nicholas Confessore, Gabriel J.X. Dance, Rich Harris and Mark Hansen, [The Follower Factory](https://www.nytimes.com/interactive/2018/01/27/technology/social-media-bots.html), The New York Times, January 27, 2018.
+
+* Sawood Alam, Plinio Vargas, Michele C. Weigle, Michael L. Nelson, [Impact of HTTP Cookie Violations in Web Archives](https://arxiv.org/abs/1906.07141), Technical Report arXiv:1906.07141, 2019. 
 
 ### Current Events
 * [#cs895f20](https://twitter.com/search?f=tweets&vertical=default&q=%23cs895f20&src=typd)
