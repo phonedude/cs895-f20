@@ -35,7 +35,7 @@ Other forensics examples:
 
 ### Class Schedule (subject to change)
 
-* Week 1 - September 3 - [The W3C Web Architecture, Memento Protocol, and Research Issues With Web Archiving](https://raw.githubusercontent.com/phonedude/cs895-s19/master/slides/week-01-web-arch-memento.pptx)
+* Week 1 - September 3 - [The W3C Web Architecture, Memento Protocol, and Research Issues With Web Archiving](https://raw.githubusercontent.com/phonedude/cs895-f20/master/slides/week-01-web-arch-memento.pptx)
 
 * Week 2 - September 10 - Continued: The W3C Web Architecture, Memento Protocol, and Research Issues With Web Archiving
 
