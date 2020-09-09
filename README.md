@@ -92,6 +92,8 @@ Other forensics examples:
 
 * Russell Brandom, [Researchers uncover six-year Russian misinformation campaign across Facebook and Reddit](https://www.theverge.com/2020/6/16/21292982/russian-troll-campaign-facebook-reddit-twitter-misinformation), 2020.
 
+* Joan Donovan, [Covid hoaxes are using a loophole to stay alive—even after content is deleted](https://www.technologyreview.com/2020/04/30/1000881/covid-hoaxes-zombie-content-wayback-machine-disinformation/), 2020.
+
 * Joan Donovan, [Protest misinformation is riding on the success of pandemic hoaxes](https://www.technologyreview.com/2020/06/10/1002934/protest-propaganda-is-riding-on-the-success-of-pandemic-hoaxes/), 2020.
 
 * Joan Donovan, Brian Friedberg, [Source Hacking: Media Manipulation in Practice](https://datasociety.net/wp-content/uploads/2019/09/Source-Hacking_Hi-res.pdf), 2019.
