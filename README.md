@@ -55,28 +55,72 @@ Other forensics examples:
   * Background: [Weaponized Web Archives: Provenance Laundering of Short Order Evidence](https://www.slideshare.net/phonedude/weaponized-web-archives-provenance-laundering-of-short-order-evidence-121503918), [Blockchain Can Not Be Used To Verify Replayed Archived Web Pages](https://www.slideshare.net/phonedude/blockchain-can-not-be-used-to-verify-replayed-archived-web-pages-125618706)
 
 * Week 4 - September 24 - Student Presentation 1
+  * Shawn 
+  * Travis
+  * Kritika
+  * Grant
 
 * Week 5 - October 1 - Student Presentation 2
+  * Harveen
+  * Valentina
+  * Evan
+  * Peter
 
 * Week 6 - October 15 - Student Forensics Studies 1
+  * Udith
+  * Himarsha
+  * Jim 
+  * Kritika
 
 * Week 7 - October 22 - Student Forensics Studies 2
+  * Shawn
+  * Grant
+  * Evan
+  * Valentina
 
 * Week 8 - October 29 - Student Presentation 3
+  * Travis
+  * Udith
+  * Himarsha
+  * Jim
 
 * Week 9 - November 5 - Student Presentation 4
+  * Kritika
+  * Grant
+  * Evan
+  * Shawn
 
 * Week 10 - November 12 - Student Forensics Studies 3
+  * Harveen
+  * Peter
+  * Himarsha
+  * Shawn
 
 * Week 11 - November 19 - Student Forensics Studies 4
+  * Travis
+  * Evan
+  * Valentina
+  * Udith
 
 * Week 12 - November 26 - Thanksgiving Holiday -- no class
 
 * Week 13 - December 3 - Student Presentation 5
+  * Peter
+  * Himarsha
+  * Jim
 
 * Week 14 - December 10 - Student Presentation 6
+  * Harveen
+  * Valentina
+  * Udith
 
 * Week 15 - December 17 - Student Forensics Studies 5
+  * Jim
+  * Travis
+  * Kritika
+  * Harveen
+  * Grant
+  * Peter
 
 ### Unassigned Readings (Subject to change; in no particular order; suggestions welcome)
 
