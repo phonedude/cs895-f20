@@ -198,6 +198,8 @@ Other forensics examples:
 
 * Sawood Alam, Plinio Vargas, Michele C. Weigle, Michael L. Nelson, [Impact of HTTP Cookie Violations in Web Archives](https://arxiv.org/abs/1906.07141), Technical Report arXiv:1906.07141, 2019. 
 
+* Amelia Acker, Mitch Chaiet, [The weaponization of web archives: Data craft and COVID-19 publics](https://doi.org/10.37016/mr-2020-41), The Harvard Kennedy School (HKS) Misinformation Review, 2020.
+
 ### Current Events
 * [#cs895f20](https://twitter.com/search?f=tweets&vertical=default&q=%23cs895f20&src=typd)
 
