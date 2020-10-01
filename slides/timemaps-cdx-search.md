@@ -97,12 +97,10 @@ curl -s http://memgator.cs.odu.edu/timemap/link/https://twitter.com/SputnikNewsU
 <https://web.archive.org/web/20141220182702/https://twitter.com/SputnikNewsUS>; rel="memento"; datetime="Sat, 20 Dec 2014 18:27:02 GMT",
 ```
 
-This request shows only the versions *not* at the IA:
+This request shows only the versions *not* at the IA (`grep datetime` selects only memento lines (no `rel="self"` etc. lines), and `grep -v web.archive.org` filters out IA mementos):
 
 ```
-curl -s http://memgator.cs.odu.edu/timemap/link/https://twitter.com/SputnikNewsUS | grep -v web.archive.org | head
-<https://twitter.com/SputnikNewsUS>; rel="original",
-<https://memgator.cs.odu.edu/timemap/link/https://twitter.com/SputnikNewsUS>; rel="self"; type="application/link-format",
+curl -s http://memgator.cs.odu.edu/timemap/link/https://twitter.com/SputnikNewsUS | grep datetime | grep -v web.archive.org | head
 <https://wayback.archive-it.org/all/20141203234550/https://twitter.com/SputnikNewsUS>; rel="first memento"; datetime="Wed, 03 Dec 2014 23:45:50 GMT",
 <https://wayback.archive-it.org/all/20141216130302/http://twitter.com/SputnikNewsUS>; rel="memento"; datetime="Tue, 16 Dec 2014 13:03:02 GMT",
 <https://wayback.archive-it.org/all/20141216130304/https://twitter.com/SputnikNewsUS>; rel="memento"; datetime="Tue, 16 Dec 2014 13:03:04 GMT",
@@ -111,6 +109,8 @@ curl -s http://memgator.cs.odu.edu/timemap/link/https://twitter.com/SputnikNewsU
 <https://wayback.archive-it.org/all/20150109163639/https://twitter.com/SputnikNewsUS>; rel="memento"; datetime="Fri, 09 Jan 2015 16:36:39 GMT",
 <https://wayback.archive-it.org/all/20150413074447/https://twitter.com/SputnikNewsUS>; rel="memento"; datetime="Mon, 13 Apr 2015 07:44:47 GMT",
 <https://wayback.archive-it.org/all/20150513075443/https://twitter.com/SputnikNewsUS>; rel="memento"; datetime="Wed, 13 May 2015 07:54:43 GMT",
+<http://archive.md/20150531154001/https://twitter.com/SputnikNewsUS>; rel="memento"; datetime="Sun, 31 May 2015 15:40:01 GMT",
+<https://wayback.archive-it.org/all/20150807052214/https://twitter.com/SputnikNewsUS>; rel="memento"; datetime="Fri, 07 Aug 2015 05:22:14 GMT",
 ```
 
 This request shows how many copies are in which archives:
