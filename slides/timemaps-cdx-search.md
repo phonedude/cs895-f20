@@ -48,7 +48,7 @@ x-page-cache: MISS
 x-archive-screenname: 0
 ```
 
-To retrieve a TimeMap from IA (note only the first 10 lines are shown via the `head` command:
+To retrieve a TimeMap from IA (note only the first 10 lines are shown via the `head` command):
 
 ```
 curl -s https://web.archive.org/web/timemap/link/https://twitter.com/SputnikNewsUS | head -10
