@@ -19,7 +19,7 @@ After a review of the protocols and mechanics of web archiving and social media,
 
 * Nauman Siddique, [TweetedAt: Finding Tweet Timestamps for Pre and Post Snowflake Tweet IDs](https://ws-dl.blogspot.com/2019/08/2019-08-03-tweetedat-finding-tweet.html), 2019.
 
-* Sawod Alam, [Cookie Violations Cause Archived Twitter Pages to Simultaneously Replay in Multiple Languages](https://ws-dl.blogspot.com/2019/03/2019-03-18-cookie-violations-cause.html), 2019.
+* Sawood Alam, [Cookie Violations Cause Archived Twitter Pages to Simultaneously Replay in Multiple Languages](https://ws-dl.blogspot.com/2019/03/2019-03-18-cookie-violations-cause.html), 2019.
 
 Other forensics examples:
 
