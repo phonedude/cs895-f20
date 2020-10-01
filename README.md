@@ -202,6 +202,16 @@ Other forensics examples:
 
 * Nattiya Kanhabua, Philipp Kemkes, Wolfgang Nejdl, Tu Ngoc Nguyen, Felipe Reis, Nam Khanh Tran, [How to Search the Internet Archive Without Indexing It](https://arxiv.org/abs/1701.08256), Proceedings of TPDL 2016.
 
+* Hugo C. Huurdeman, Anat Ben-David, Jaap Kamps, Thaer Samar, and Arjen P. de Vries, [Finding Pages on the Unarchived Web](https://ws-dl.blogspot.com/2016/10/2016-10-03-summary-of-finding-pages-on.html), Proceedings of JCDL 2016.  
+
+* Anat Ben-David, [Counter-archiving Facebook](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=12550103628984910077), European Journal of Communication, 35(3), 2020.  
+
+* Anat Ben-David, Adam Amram, [The Internet Archive and the socio-technical construction of historical facts](https://doi.org/10.1080/24701475.2018.1455412), Internet Histories 2(1-2), 2018.
+
+* Anat Ben-David, [2014 not found: a cross-platform approach to retrospective web archiving](https://doi.org/10.1080/24701475.2019.1654290), Internet Histories 3(3-4), 2019.
+
+* Anat Ben-David, [What does the Web remember of its deleted past? An archival reconstruction of the former Yugoslav top-level domain](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=113132726174736225), New Media & Society, 18(7), 2016.
+
 ### Current Events
 * [#cs895f20](https://twitter.com/search?q=%23cs895f20&src=typd&f=live&vertical=default)
 
