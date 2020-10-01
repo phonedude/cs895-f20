@@ -1,6 +1,6 @@
 # An API Primer for Web Archives
 
-In these examples we'll use [@SputnikNewsUS](https://twitter.com/SputnikNewsUS), which is no longer on the live web.  This account was for the US version of [Sputnik](https://en.wikipedia.org/wiki/Sputnik_(news_agency)), a Russian state-affiliated news outlet.  Note that other accounts, like [@SputnikInt](https://twitter.com/@SputnikIn) still exist.
+In these examples we'll use [@SputnikNewsUS](https://twitter.com/SputnikNewsUS), which is no longer on the live web.  This account was for the US version of [Sputnik](https://en.wikipedia.org/wiki/Sputnik_(news_agency)), a Russian state-affiliated news outlet.  Note that other accounts, like [@SputnikInt](https://twitter.com/@SputnikIn), still exist.
 
 ## Memento TimeGates and TimeMaps
 
