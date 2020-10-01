@@ -200,6 +200,8 @@ Other forensics examples:
 
 * Amelia Acker, Mitch Chaiet, [The weaponization of web archives: Data craft and COVID-19 publics](https://doi.org/10.37016/mr-2020-41), The Harvard Kennedy School (HKS) Misinformation Review, 2020.
 
+* Nattiya Kanhabua, Philipp Kemkes, Wolfgang Nejdl, Tu Ngoc Nguyen, Felipe Reis, Nam Khanh Tran, [How to Search the Internet Archive Without Indexing It](https://arxiv.org/abs/1701.08256), Proceedings of TPDL 2016.
+
 ### Current Events
-* [#cs895f20](https://twitter.com/search?f=tweets&vertical=default&q=%23cs895f20&src=typd)
+* [#cs895f20](https://twitter.com/search?q=%23cs895f20&src=typd&f=live&vertical=default)
 
