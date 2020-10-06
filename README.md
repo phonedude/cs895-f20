@@ -66,55 +66,57 @@ Other forensics examples:
   * Evan
   * Peter
 
-* Week 6 - October 15 - Student Forensics Studies 1
+* Week 6 - October 8 - [A Framework for Verifying the Fixity of Archived Web Resources](https://www.slideshare.net/maturban/a-framework-for-verifying-the-fixity-of-archived-web-resources)
+
+* Week 7 - October 15 - Student Forensics Studies 1
   * Udith
   * Himarsha
   * Jim 
   * Kritika
 
-* Week 7 - October 22 - Student Forensics Studies 2
+* Week 8 - October 22 - Student Forensics Studies 2
   * Shawn
   * Grant
   * Evan
   * Valentina
 
-* Week 8 - October 29 - Student Presentation 3
+* Week 9 - October 29 - Student Presentation 3
   * Travis
   * Udith
   * Himarsha
   * Jim
 
-* Week 9 - November 5 - Student Presentation 4
+* Week 10 November 5 - Student Presentation 4
   * Kritika
   * Grant
   * Evan
   * Shawn
 
-* Week 10 - November 12 - Student Forensics Studies 3
+* Week 11 - November 12 - Student Forensics Studies 3
   * Harveen
   * Peter
   * Himarsha
   * Shawn
 
-* Week 11 - November 19 - Student Forensics Studies 4
+* Week 12 - November 19 - Student Forensics Studies 4
   * Travis
   * Evan
   * Valentina
   * Udith
 
-* Week 12 - November 26 - Thanksgiving Holiday -- no class
+* Week 13 - November 26 - Thanksgiving Holiday -- no class
 
-* Week 13 - December 3 - Student Presentation 5
+* Week 14 - December 3 - Student Presentation 5
   * Peter
   * Himarsha
   * Jim
 
-* Week 14 - December 10 - Student Presentation 6
+* Week 15 - December 10 - Student Presentation 6
   * Harveen
   * Valentina
   * Udith
 
-* Week 15 - December 17 - Student Forensics Studies 5
+* Week 16 - December 17 - Student Forensics Studies 5
   * Jim
   * Travis
   * Kritika
