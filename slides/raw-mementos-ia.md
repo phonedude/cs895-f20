@@ -154,7 +154,7 @@ x-archive-screenname: 0
 [deletia]
 ```
 
-Note that in the above response, although there is no archival banner inserted and the HTML has not had its links rewritten, the HTTP response headers are updated to be "now" and not "then" (i.e., `Wed, 07 Oct 2020 17:21:24 GMT` and not `Mon, 07 Oct 1996 14:45:49 GMT`).  Also note the presence of the `x-archive-orig` HTTP response headers.  The entity body is not transformed, but the HTTP response headers are transformed.  
+Note that in the above response, although there is no archival banner inserted and the HTML has not had its links rewritten, the HTTP response headers are updated to be "now" and not "then" (i.e., `Wed, 07 Oct 2020 17:21:24 GMT` and not `Fri, 10 Oct 1997 04:49:13 GMT`).  Also note the presence of the `x-archive-orig` HTTP response headers.  The entity body is not transformed, but the HTTP response headers are transformed.  
 
 Replaying the tranformed page with the HTTP response headers will result in different hashes each time:
 
