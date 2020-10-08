@@ -184,7 +184,7 @@ Wed Oct  7 13:28:19 EDT 2020
 b68ab56b7770682fdb6d8c543c09f506  -
 ```
 
-If you note above, the first two replays produced hash values of `8fc843af08eae08b326b6010e82621d3`, and then at exactly 10m inutes after the first request (shown in this first example above; `Wed, 07 Oct 2020 17:18:19 GMT` vs. `Wed Oct  7 13:28:19 EDT 2020`), there is a new hash value.  Thus the IA's cache has a 10 minute duration.  Below are two HEAD requests and showing the appropriate header:
+If you note above, the first two replays produced hash values of `8fc843af08eae08b326b6010e82621d3`, and then at exactly 10 minutes after the first request (shown in this first example above; `Wed, 07 Oct 2020 17:18:19 GMT` vs. `Wed Oct  7 13:28:19 EDT 2020`), there is a new hash value.  Thus the IA's cache has a 10 minute duration.  Below are two HEAD requests and showing the appropriate header:
 
 ```
 % date ; curl -s -I https://web.archive.org/web/19971010044705/http://www.dlib.org/dlib/July95/07arms.html | grep "x-page-cache:"
