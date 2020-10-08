@@ -55,18 +55,18 @@ Other forensics examples:
   * Background: [Weaponized Web Archives: Provenance Laundering of Short Order Evidence](https://www.slideshare.net/phonedude/weaponized-web-archives-provenance-laundering-of-short-order-evidence-121503918), [Blockchain Can Not Be Used To Verify Replayed Archived Web Pages](https://www.slideshare.net/phonedude/blockchain-can-not-be-used-to-verify-replayed-archived-web-pages-125618706), [DSHR1](https://blog.dshr.org/2019/06/michael-nelsons-cni-keynote-part-1.html), [DSHR2](https://blog.dshr.org/2019/06/michael-nelsons-cni-keynote-part-2.html), [DSHR3](https://blog.dshr.org/2019/06/michael-nelsons-cni-keynote-part-3.html), [MLN](https://ws-dl.blogspot.com/2020/03/2020-03-07-at-nexus-of-cni-keynote-and.html).  
 
 * Week 4 - September 24 - Student Presentation 1
-  * Shawn 
-  * Travis
-  * Kritika
-  * Grant
+  * Shawn -- Joan Donovan, Brian Friedberg, [Source Hacking: Media Manipulation in Practice](https://datasociety.net/wp-content/uploads/2019/09/Source-Hacking_Hi-res.pdf), 2019.
+  * Travis -- Jennifer Golbeck et al., [Fake News vs Satire: A Dataset and Analysis](https://github.com/jgolbeck/fakenews), Proceedings of the 10th ACM Conference on Web Science, 2018.
+  * Kritika -- Scott G. Ainsworth, Michael L. Nelson, Herbert Van de Sompel, [Only One Out of Five Archived Web Pages Existed as Presented](https://ws-dl.blogspot.com/2015/12/2015-12-08-evaluating-temporal.html), Proceedings of Hypertext 2015, 2015.
+  * Grant -- Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Michael Sirivianos, Gianluca Stringhini, [Understanding Web Archiving Services and Their (Mis)Use on Social Media](https://arxiv.org/abs/1801.10396), Proceedings of ICWSM 2018.
 
 * Week 5 - October 1 - Student Presentation 2
-  * Harveen
-  * Valentina
-  * Evan
-  * Peter
+  * Harveen -- Andy Greenberg, [Hackers Broke Into Real News Sites to Plant Fake Stories](https://www.wired.com/story/hackers-broke-into-real-news-sites-to-plant-fake-stories-anti-nato/), 2020.
+  * Valentina -- Louise Lief, [What the news media can learn from librarians](https://www.cjr.org/innovations/librarians_journalism_lessons.php), Columbia Journalism Review, 2016.
+  * Evan -- Clifford Lynch, [Stewardship in the 'Age of Algorithms'](https://journals.uic.edu/ojs/index.php/fm/article/view/8097/6583) First Monday 22(12), 2017.
+  * Peter -- Mohamed Aturban, Michele C. Weigle, Michael L. Nelson, [Difficulties of Timestamping Archived Web Pages](https://arxiv.org/abs/1712.03140), Technical Report arXiv:1712.03140, 2017.
 
-* Week 6 - October 8 - [A Framework for Verifying the Fixity of Archived Web Resources](https://www.slideshare.net/maturban/a-framework-for-verifying-the-fixity-of-archived-web-resources)
+* Week 6 - October 8 - [A Framework for Verifying the Fixity of Archived Web Resources](https://ws-dl.blogspot.com/2020/09/2020-09-28-phd-is-very-long-tunnel-with.html)
 
 * Week 7 - October 15 - Student Forensics Studies 1
   * Udith
