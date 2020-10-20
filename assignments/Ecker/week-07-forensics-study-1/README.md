@@ -5,7 +5,7 @@ James Ecker
 
 The code and data in this project were used to analyze the alleged scrubbing of data from http://peopleofpraise.org pertaining to Amy Coney Barrett and her family
 
-#Requirements
+# Requirements
 python 3
 
 Create a python 3 virtual environment and install the following python modules
@@ -14,7 +14,7 @@ Create a python 3 virtual environment and install the following python modules
 
 You can run the following scrapes:
 
-####Live News Blog Posts
+#### Live News Blog Posts
 
 This script will pull all of the news blog post links from `sources/full_news.html` and create a list of the found urls in `sources/full_news_list.txt`. `sources/full_news_list.txt` is included in this repo
 
@@ -26,7 +26,7 @@ If you do not have a list of urls in `sources/`, you'll need to run this script 
 
 Running a scrape with the `--create-list` flag requires a saved version of the http://peopleofpraise.org/news page with all of the blog post thumbnails loaded. I had to do this manually, but have included the html file at `sources/full_news.html`
 
-####Archived News Blog Posts
+#### Archived News Blog Posts
 
 This script runs a scrape on news blog posts in the Internet Archives.
 
@@ -43,7 +43,7 @@ Once you have the uri list in `sources/` you can run the script
 
 `python archive-scrape.py`
 
-####Archived Missionary Blog Posts
+#### Archived Missionary Blog Posts
 
 You can also run a scrape on any missionary blog posts in the archives. A list of missionary blog post uris is already included in this repo at `sources/missionary.txt`.
 
@@ -58,7 +58,7 @@ However, if it isn't there you can create one by executing the following command
 
 `curl -s "http://web.archive.org/cdx/search/cdx?url=peopleofpraise.org/missionary&matchType=prefix" | sort -k 2 | awk '{print "https://web.archive.org/web/" $2 "/" $3};' > sources/missionary.txt`
 
-####Archived Issues of Vine and Branches Magazine
+#### Archived Issues of Vine and Branches Magazine
 
 This script will scrape all issues of Vine and Branches Magazine. By default, it only scrapes metadata. There is an option to download the issues as well. However, this takes a *LONG* time (~20 hours when I ran it).
 
@@ -78,60 +78,60 @@ This will track any issues that go missing between mementos and save a .csv file
 # Datasets
 Located in `dataset/`
 
-##archived_missionary_blog_posts.csv
+## archived_missionary_blog_posts.csv
 Describes each blog post found when scraping missionary blog posts in the archives with `../archive_scrape.py`
 
-###Path
+### Path
 
 `dataset/archived_missionary_blog_posts.csv`
 
-###Header
+### Header
 
 | memento_time | original_url | post_id | date | title | entry |
 |--------------|--------------|---------|------|-------|-------|
 
-##archived_news_blog_posts.csv
+## archived_news_blog_posts.csv
 Describes each blog post found when scraping missionary blog posts in the archives with `../archive_scrape.py`
 
-###Path
+### Path
 
 `dataset/archived_news_blog_posts.csv`
 
-###Header
+### Header
 | memento_time | original_url | post_id | date | title | entry |
 |--------------|--------------|---------|------|-------|-------|
 
-##archived_vine_issues.csv
+## archived_vine_issues.csv
 Describes each blog post found when scraping issues of Vine and Branches magazine with `../vine_scrape.py`
 
-###Path
+### Path
 
 `dataset/archived_vine_issues.csv`
 
-###Header
+### Header
 | memento_time | file_name | uri 
 |--------------|--------------|---------|
 
-##full_live_news_posts.csv
+## full_live_news_posts.csv
 Describes each blog post found when scraping a copy of the live web peopleofpraise.org/news with `../full_live_news_scrape.py`
 
-###Path
+### Path
 
 `dataset/full_live_news_posts.csv`
 
-###Header
+### Header
 
 | post_id | date | title | entry | uri 
 |--------------|--------------|---------|--------------|----------|
 
-##missing.csv
+## missing.csv
 Describes each issue of Vine and Branches magazine missing from a memento, since the last memento, when scraping issues with `../vine_scrape.py`
 
-###Path
+### Path
 
 `dataset/missing.csv`
 
-###Header
+### Header
 
 | memento_time | missing 
 |--------------|--------------|
