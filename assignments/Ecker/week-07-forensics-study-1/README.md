@@ -5,6 +5,7 @@ James Ecker
 
 The code and data in this project were used to analyze the alleged scrubbing of data from http://peopleofpraise.org pertaining to Amy Coney Barrett and her family
 
+Slides associated with this project are available on [Google Slides](https://drive.google.com/file/d/1fL9TBw0gtuGNwSGKMDgBU6XT2GVWm7it/view?usp=sharing) and in this repo as a Power Point presentation named [`Jim Ecker Forensics Study 1.pptx`](https://github.com/jim-ecker/cs895-f20/blob/master/assignments/Ecker/week-07-forensics-study-1/Jim%20Ecker%20Forensics%20Study%201.pptx)
 # Requirements
 python 3
 
@@ -20,7 +21,7 @@ This script will pull all of the news blog post links from `sources/full_news.ht
 
 `python full_live_news_scrape.py`
 
-If you do not have a list of urls in `sources/`, you'll need to run this script with the `--create-list` flag.
+If you do not have a list of urls in `sources/`, you'https://github.com/jim-ecker/cs895-f20/blob/master/assignments/Ecker/week-07-forensics-study-1/Jim%20Ecker%20Forensics%20Study%201.pptxhttps://github.com/jim-ecker/cs895-f20/blob/master/assignments/Ecker/week-07-forensics-study-1/Jim%20Ecker%20Forensics%20Study%201.pptxll need to run this script with the `--create-list` flag.
 
 `python full_live_news_scrape.py --create-list`
 
