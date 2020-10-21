@@ -21,7 +21,7 @@ This script will pull all of the news blog post links from `sources/full_news.ht
 
 `python full_live_news_scrape.py`
 
-If you do not have a list of urls in `sources/`, you'https://github.com/jim-ecker/cs895-f20/blob/master/assignments/Ecker/week-07-forensics-study-1/Jim%20Ecker%20Forensics%20Study%201.pptxhttps://github.com/jim-ecker/cs895-f20/blob/master/assignments/Ecker/week-07-forensics-study-1/Jim%20Ecker%20Forensics%20Study%201.pptxll need to run this script with the `--create-list` flag.
+If you do not have a list of urls in `sources/`, you'll need to run this script with the `--create-list` flag.
 
 `python full_live_news_scrape.py --create-list`
 
