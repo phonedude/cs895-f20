@@ -1,0 +1,70 @@
+{
+  "self": "http://carbondate.cs.odu.edu/cd/https://help.twitter.com/en/rules-and-policies/parody-account-policy",
+  "uri": "https://help.twitter.com/en/rules-and-policies/parody-account-policy",
+  "estimated-creation-date": "2017-12-23T14:43:41",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "web.archive.org": {
+      "uri-m": "https://web.archive.org/web/20171223144341/https://help.twitter.com/en/rules-and-policies/parody-account-policy",
+      "memento-datetime": "2017-12-23T14:43:41",
+      "memento-pubdate": "",
+      "earliest": "2017-12-23T14:43:41"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "https://wayback.archive-it.org/all/20180108031105/https://help.twitter.com/en/rules-and-policies/parody-account-policy",
+      "memento-datetime": "2018-01-08T03:11:05",
+      "memento-pubdate": "",
+      "earliest": "2018-01-08T03:11:05"
+    },
+    "webarchive.loc.gov": {
+      "uri-m": "https://webarchive.loc.gov/all/20180509224438/https://help.twitter.com/en/rules-and-policies/parody-account-policy",
+      "memento-datetime": "2018-05-09T22:44:38",
+      "memento-pubdate": "",
+      "earliest": "2018-05-09T22:44:38"
+    },
+    "www.webarchive.org.uk": {
+      "uri-m": "https://www.webarchive.org.uk/wayback/archive/20180515135711mp_/https://help.twitter.com/en/rules-and-policies/parody-account-policy",
+      "memento-datetime": "2018-05-15T13:57:11",
+      "memento-pubdate": "",
+      "earliest": "2018-05-15T13:57:11"
+    },
+    "arquivo.pt": {
+      "uri-m": "https://arquivo.pt/wayback/20181004122611mp_/https://help.twitter.com/en/rules-and-policies/parody-account-policy",
+      "memento-datetime": "2018-10-04T12:26:11",
+      "memento-pubdate": "",
+      "earliest": "2018-10-04T12:26:11"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20181224055127/https://help.twitter.com/en/rules-and-policies/parody-account-policy",
+      "memento-datetime": "2018-12-24T05:51:27",
+      "memento-pubdate": "2018-12-24T05:51:27",
+      "earliest": "2018-12-24T05:51:27"
+    },
+    "perma.cc": {
+      "uri-m": "https://perma.cc/BK4T-UDLE",
+      "memento-datetime": "2020-09-11T19:16:43",
+      "memento-pubdate": "",
+      "earliest": "2020-09-11T19:16:43"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}
