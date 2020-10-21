@@ -49,9 +49,9 @@ You can also run a scrape on any missionary blog posts in the archives. A list o
 
 `python archive-scrape.py --category missionary --in-file missionary.txt`
 
-*NOTE:* this script is kind of clunky when running it for missionary posts. You have to explicitly declare the name of the input file. 
+> *NOTE:* this script is kind of clunky when running it for missionary posts. You have to explicitly declare the name of the input file. 
 
-*NOTE:* the file does not include the `sources/` directory when specifying it by cli flag, it is handled by the script.
+> *NOTE:* the file does not include the `sources/` directory when specifying it by cli flag, it is handled by the script.
 
 
 However, if it isn't there you can create one by executing the following command:
@@ -146,10 +146,14 @@ Bases: `Scraper.Scraper`
 Scraper for scraping archives
 
 **Instance Variables**
-in_file: str: uri for input file
-out_file: str: uri for the resulting csv
-category: str: news|missionary choice for blog category
-columns: List[str]: list containing header descriptions
+
+* **in_file**: str: uri for input file
+
+* **out_file**: str: uri for the resulting csv
+
+* **category**: str: news|missionary choice for blog category
+
+* **columns**: List[str]: list containing header descriptions
 
 
 #### \__init__(in_file: str, out_file: str, category: str)
@@ -158,14 +162,11 @@ ArchiveBlogScraper constructor
 
 * **Parameters**
 
-    
-    * **in_file** (*str*) – uri for input file
+    **in_file** (*str*) – uri for input file
 
+    **out_file** (*str*) – uri for output csv file
 
-    * **out_file** (*str*) – uri for output csv file
-
-
-    * **category** (*str*) – news|missionary choice for blog category
+    **category** (*str*) – news|missionary choice for blog category
 
 
 
@@ -203,11 +204,9 @@ Parses the DOM for the data under inspection and collects data
 
 * **Parameters**
 
-    
-    * **soup** (*BeautifulSoup*) – representation of DOM under inspection
+    **soup** (*BeautifulSoup*) – representation of DOM under inspection
 
-
-    * **prepend** (*list*) – scraped data will be appended to this list
+    **prepend** (*list*) – scraped data will be appended to this list
 
 
 
@@ -239,10 +238,14 @@ Bases: `Scraper.Scraper`
 Scraper for scraping blog posts from the live web
 
 **Instance Variables**
-out_file: str
-create_list: bool
-html_file: str
-columns: List[str]
+
+* **out_file**: str
+
+* **create_list**: bool
+
+* **html_file**: str
+
+* **columns**: List[str]
 
 
 #### \__init__(in_file: str, out_file: str, create_list: bool, html_file: str)
@@ -251,18 +254,15 @@ LiveScraper constructor
 
 * **Parameters**
 
-    
-    * **in_file** (*str*) – uri for the input file
+    **in_file** (*str*) – uri for the input file
 
+    **out_file** (*str*) – uri for the output csv
 
-    * **out_file** (*str*) – uri for the output csv
+    **create_list** (*bool*) – specify whether to create a new list of blog posts in **sources/** directory
 
+    > **NOTE** create_list requires an HTML file for the live web in **sources/** directory
 
-    * **create_list** (*bool*) – specify whether to create a new list of blog posts in **sources/** directory
-    **NOTE** create_list requires an HTML file for the live web in **sources/** directory
-
-
-    * **html_file** (*str*) – uri for the HTML file for the live web
+    **html_file** (*str*) – uri for the HTML file for the live web
 
 
 
@@ -316,11 +316,9 @@ Parses the DOM for the data under inspection and collects data
 
 * **Parameters**
 
-    
-    * **soup** (*BeautifulSoup*) – representation of DOM under inspection
+    **soup** (*BeautifulSoup*) – representation of DOM under inspection
 
-
-    * **prepend** (*list*) – scraped data will be appended to this list
+    **prepend** (*list*) – scraped data will be appended to this list
 
 
 
@@ -353,9 +351,12 @@ Abstract class for Scraper classes
 Specifies run() and parse_soup() methods as required abstractmethods
 
 **Instance Variables**
-in_file: str
-data: List[Any]
-columns: List[Any]
+
+* **in_file**: str
+
+* **data**: List[Any]
+
+* **columns**: List[Any]
 
 
 #### \__init__(in_file: str)
@@ -396,11 +397,9 @@ abstractmethod to require descendent classes to implement
 
 * **Parameters**
 
-    
-    * **soup** (*BeautifulSoup*) – soup representation of DOM under inspection
+    **soup** (*BeautifulSoup*) – soup representation of DOM under inspection
 
-
-    * **prepend** (*list*) – any data to prepend to return list
+    **prepend** (*list*) – any data to prepend to return list
 
 
 
@@ -440,7 +439,10 @@ reads the file specified by @in_file
 
 #### abstract run()
 abstractmethod to require descendent classes to implement
-:rtype: None
+
+* **Return Type** 
+
+    None
 
 
 #### save_to_csv()
@@ -449,11 +451,9 @@ saves scraped data to a csv file
 
 * **Parameters**
 
-    
-    * **outfile** (*str*) – uri for the resulting csv
+    **outfile** (*str*) – uri for the resulting csv
 
-
-    * **msg** (*str*) – string for specifying a custom message to be sent to terminal when calling this function
+    **msg** (*str*) – string for specifying a custom message to be sent to terminal when calling this function
 
 
 
@@ -469,13 +469,20 @@ Bases: `Scraper.Scraper`
 Scraper to scrape metadata (and, optionally, download) for issues of Vine and Branches magazine in the archives
 
 **Instance Variables**
-out_file: str: uri for output csv
-find_missing: bool: specify whether to track issues missing since last memento
-memento_now: List[Any]: list containing issues found in the current memento
-missing: List[Any]: list containing any missing issues found in processing
-download: bool: specify whether to download issues ::WARNING:: this will take a ::LONG:: time
-memento_time: str: memento time for the memento currently being processed
-columns: List[str]: list containing descriptions for column headers
+
+* **out_file**: str: uri for output csv
+
+* **find_missing**: bool: specify whether to track issues missing since last memento
+
+* **memento_now**: List[Any]: list containing issues found in the current memento
+
+* **missing**: List[Any]: list containing any missing issues found in processing
+
+* **download**: bool: specify whether to download issues ::WARNING:: this will take a ::LONG:: time
+
+* **memento_time**: str: memento time for the memento currently being processed
+
+* **columns**: List[str]: list containing descriptions for column headers
 
 
 #### \__init__(in_file: str, out_file: str, find_missing: bool, download: bool)
@@ -484,17 +491,13 @@ VineScraper constructor
 
 * **Parameters**
 
-    
-    * **in_file** (*str*) – uri for input file
+    **in_file** (*str*) – uri for input file
 
+    **out_file** (*str*) – uri for output csv file
 
-    * **out_file** (*str*) – uri for output csv file
+    **find_missing** (*bool*) – specify whether to track issues missing since last memento
 
-
-    * **find_missing** (*bool*) – specify whether to track issues missing since last memento
-
-
-    * **download** (*bool*) – specify whether to download issues **WARNING** this will take a **LONG** time
+    **download** (*bool*) – specify whether to download issues **WARNING** this will take a **LONG** time
 
 
 
@@ -510,11 +513,9 @@ Finds the elements missing in memento_now since memento_last
 
 * **Parameters**
 
-    
-    * **memento_last** (*list*) – list of issues found in the last memento
+    **memento_last** (*list*) – list of issues found in the last memento
 
-
-    * **memento_now** (*list*) – list of issues found in the current memento
+    **memento_now** (*list*) – list of issues found in the current memento
 
 
 
@@ -538,11 +539,9 @@ The **vine/** directory is organized by memento_time
 
 * **Parameters**
 
-    
-    * **uri** (*str*) – uri for issue’s pdf file
+    **uri** (*str*) – uri for issue’s pdf file
 
-
-    * **memento_time** (*str*) – the memento time for the pdf file in the archives
+    **memento_time** (*str*) – the memento time for the pdf file in the archives
 
 
 
@@ -558,11 +557,9 @@ Parses the DOM for the data under inspection and collects data
 
 * **Parameters**
 
-    
-    * **soup** (*BeautifulSoup*) – representation of DOM under inspection
+    **soup** (*BeautifulSoup*) – representation of DOM under inspection
 
-
-    * **prepend** (*list*) – scraped data will be appended to this list
+    **prepend** (*list*) – scraped data will be appended to this list
 
 
 
