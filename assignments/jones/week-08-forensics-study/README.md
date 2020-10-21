@@ -43,8 +43,8 @@ Steps 3 and 4 were necessary because the Twitter API only permits queries of 100
 
 ## Running the Notebook
 
-The file `Verified Accounts Tweeting To Fake Trump Accounts.ipynb` contains the code used to generate the visualizations in the presentation. It was run in a homebrew Python 3.8 environment on macOS 10.15.6. It has imports at the top for various libraries, to run it, you will need:
-* Jupyter
+The file `Verified Accounts Tweeting To Fake Trump Accounts.ipynb` contains the code used to generate the visualizations in the presentation. It was run in a homebrew Python 3.8 environment on macOS 10.15.6. It has imports at the top for various libraries. To run it, you will need:
+* [Jupyter](https://jupyter.org/)
 * [Matplotlib](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.text.html)
 * [wordcloud](https://github.com/amueller/word_cloud)
 * [NLTK](https://www.nltk.org/)
@@ -52,4 +52,4 @@ The file `Verified Accounts Tweeting To Fake Trump Accounts.ipynb` contains the 
 * [Tabulate](https://pypi.org/project/tabulate/)
 * [Scipy](https://www.scipy.org/)
 
-The notebook is very rough with few descriptions to cover the code. To produce the [chord diagram](https://www.data-to-viz.com/graph/chord.html) seen in the slides, it must be run from [Jupyter Lab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906) via `jupyter-lab`, not `jupyter notebook`.
+The notebook is very rough with few descriptions to cover the code. To produce the [chord diagram](https://www.data-to-viz.com/graph/chord.html) seen in slide 26, it must be run from [Jupyter Lab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906) via `jupyter-lab`, not `jupyter notebook`.
