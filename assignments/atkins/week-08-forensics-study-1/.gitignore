@@ -2,3 +2,4 @@
 .Rhistory
 *.Rproj*
 __pycache__/
+.DS_Store
