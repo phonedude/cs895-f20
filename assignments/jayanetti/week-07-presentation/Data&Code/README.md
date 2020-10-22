@@ -2,7 +2,7 @@
 ## A quantitative case study using Katy Perry’s Instagram account
 \
 \
-\
+
 ### Slides
 
 #### Link to the slides: https://docs.google.com/presentation/d/1Rp_0L7lpFgiAvd7y2p64O8NZRzw11fYHxBHlHQDssCY/edit?usp=sharing
