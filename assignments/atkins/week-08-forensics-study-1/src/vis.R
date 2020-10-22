@@ -24,6 +24,13 @@ cdx <- read.csv("../data/cdx_counts.csv", header = TRUE) %>%
 # Archive diversity
 tmd %>% count(archive) %>% arrange(desc(n))
 
+tweet_tm <- dt %>% count(domain) %>% left_join(tmd %>% count(domain), by="domain")
+
+ggplot(tweet_tm, mapping = aes(x=log10(n.x), y=log10(n.y))) +
+  geom_point() +
+  geom_smooth() +
+  labs(x='Tweet Count', y='Memento Count')
+
 # CDX & Memento Distribution
 tmd <- tmd %>% 
   left_join(cdx, by = "domain") 
@@ -103,12 +110,15 @@ ggplot(user_tweets, aes(x=x_bins)) +
 domain_totals <- dt %>% count(domain)
 user_tweets <- dt %>% 
   count(username, domain) %>%
-  # mutate(percent = count(domain)) %>%
-  # mutate(percent = n / ) %>%
   arrange(username, n) %>%
   rename(twitter_username = username)
-  
 
+user_tweets <- user_tweets %>%
+  left_join(dt %>% count(domain), by = "domain") %>%
+  mutate(percent = (n.x / n.y) * 100) %>%
+  rename(user_tweets = n.x, total_domain_tweets = n.y)
+
+  # select(-n.x, -n.y)
 ##### DOMAINS ####
 # Filters on domain count
 # top <- distinct(dt, domain) %>%
