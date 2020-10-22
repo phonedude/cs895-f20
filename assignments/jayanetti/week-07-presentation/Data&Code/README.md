@@ -1,7 +1,6 @@
 # How well is Instagram archived? 
 ## A quantitative case study using Katy Perry’s Instagram account
-<br>
-<br>
+
 
 ### Slides
 
