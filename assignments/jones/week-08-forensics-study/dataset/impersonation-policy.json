@@ -1,0 +1,64 @@
+{
+  "self": "http://carbondate.cs.odu.edu/cd/https://help.twitter.com/en/rules-and-policies/twitter-impersonation-policy",
+  "uri": "https://help.twitter.com/en/rules-and-policies/twitter-impersonation-policy",
+  "estimated-creation-date": "2017-12-18T22:44:33",
+  "earliest-sources": [
+    "archive.md"
+  ],
+  "sources": {
+    "archive.md": {
+      "uri-m": "http://archive.md/20171218224433/https://help.twitter.com/en/rules-and-policies/twitter-impersonation-policy",
+      "memento-datetime": "2017-12-18T22:44:33",
+      "memento-pubdate": "2017-12-18T22:44:33",
+      "earliest": "2017-12-18T22:44:33"
+    },
+    "web.archive.org": {
+      "uri-m": "https://web.archive.org/web/20171223144320/https://help.twitter.com/en/rules-and-policies/twitter-impersonation-policy",
+      "memento-datetime": "2017-12-23T14:43:20",
+      "memento-pubdate": "",
+      "earliest": "2017-12-23T14:43:20"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "https://wayback.archive-it.org/all/20180213062729/https://help.twitter.com/en/rules-and-policies/twitter-impersonation-policy",
+      "memento-datetime": "2018-02-13T06:27:29",
+      "memento-pubdate": "",
+      "earliest": "2018-02-13T06:27:29"
+    },
+    "www.webarchive.org.uk": {
+      "uri-m": "https://www.webarchive.org.uk/wayback/archive/20180515135710mp_/https://help.twitter.com/en/rules-and-policies/twitter-impersonation-policy",
+      "memento-datetime": "2018-05-15T13:57:10",
+      "memento-pubdate": "",
+      "earliest": "2018-05-15T13:57:10"
+    },
+    "webarchive.loc.gov": {
+      "uri-m": "https://webarchive.loc.gov/all/20180530011131/https://help.twitter.com/en/rules-and-policies/twitter-impersonation-policy",
+      "memento-datetime": "2018-05-30T01:11:31",
+      "memento-pubdate": "",
+      "earliest": "2018-05-30T01:11:31"
+    },
+    "arquivo.pt": {
+      "uri-m": "https://arquivo.pt/wayback/20190125215700mp_/https://help.twitter.com/en/rules-and-policies/twitter-impersonation-policy",
+      "memento-datetime": "2019-01-25T21:57:00",
+      "memento-pubdate": "",
+      "earliest": "2019-01-25T21:57:00"
+    },
+    "bing.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    }
+  }
+}
