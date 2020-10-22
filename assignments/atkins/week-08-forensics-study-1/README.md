@@ -2,7 +2,7 @@
 
 Google slides link:
 
-- https://docs.google.com/presentation/d/1L_rXZ8FP7BlN598O30PFhw5Ri6eVNlyu3JuhB-6-Xw8/edit?usp=sharing
+- https://docs.google.com/presentation/d/1rqa2M-aC_iuZI7YvYB_hW_bVJUzS_ayaxdjHnFcLkdU/edit?usp=sharing
 
 Slides also downloaded locally to this repo:
 
