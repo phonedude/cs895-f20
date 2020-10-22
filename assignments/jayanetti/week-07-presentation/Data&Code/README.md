@@ -9,7 +9,6 @@
 
 * Link to the HAR file in google drive: https://drive.google.com/file/d/1yJERZZeknkX5vIY3ZIW8ID-z4RQ8FzPd/view?usp=sharing
 This contains the HAR data for Katy Perry's IG feed as of September 24th 2020.
-
 (Unable to include it in github due to the file size limitation)
 
 * A1_IGPostData/har_analyser.py: Extracts the shortcode,url,time,utc,likes,comments for each post
