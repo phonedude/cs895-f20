@@ -16,6 +16,7 @@ In the data folder:
 - **data/sample_urirs.csv**: 100 Randomly sampled URIs from `data/fake_news_sites.csv`
 - **data/timemaps/\*.json**: Timemaps taken from sampled URIs
 - **data/tweets/*.csv**: Tweets collected via Twint contain that URI from the sample
+- **data/*_small.csv**: Subset of the raw data taken from timemap, tweets, and cdx for the data we need to represent.
 
 ## Developer setup
 
