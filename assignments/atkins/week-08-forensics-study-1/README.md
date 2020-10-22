@@ -6,7 +6,7 @@ Google slides link:
 
 Slides also downloaded locally to this repo:
 
-- [presentation1.pdf](./slides/presentation1.pdf)
+- [presentation1.pdf](./slides/Forensics%20Study%201.pdf)
 
 ## Data
 
