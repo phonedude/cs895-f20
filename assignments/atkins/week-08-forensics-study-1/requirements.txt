@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+git+https://github.com/twintproject/twint.git@origin/master#egg=twint
+sh
+seaborn
+pandas
+ipykernel
