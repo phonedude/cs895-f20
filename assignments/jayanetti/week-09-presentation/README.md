@@ -1,5 +1,9 @@
 # Examining Twitter’s policy against election-related misinformation in action
-## By Kate Starbird and Carly Miller
+## Authors: Kate Starbird and Carly Miller
+
+### Article
+
+#### Link to the article: https://www.eipartnership.net/policy-analysis/twitters-policy-election-misinfo-in-action
 
 ### Slides
 
