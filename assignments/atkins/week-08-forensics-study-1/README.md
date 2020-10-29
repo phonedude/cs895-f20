@@ -10,6 +10,12 @@ Slides also downloaded locally to this repo:
 
 ## Data
 
+Looking for the raw tweets and timemaps? Download them here:
+
+```
+https://drive.google.com/file/d/1UvLTVNiHMbeRZBHdRfVm2G7FbgshUCM9/view?usp=sharing
+```
+
 In the data folder:
 
 - **data/fake_news_sites.csv**: URIs identified as False misleading news sites originally collected by Melissa Zimdars (https://docs.google.com/document/d/10eA5-mCZLSS4MQY5QGb5ewC3VAL6pLkT53V_81ZyitM/preview)
