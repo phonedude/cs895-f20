@@ -69,22 +69,22 @@ Other forensics examples:
 * Week 6 - October 8 - [A Framework for Verifying the Fixity of Archived Web Resources](https://ws-dl.blogspot.com/2020/09/2020-09-28-phd-is-very-long-tunnel-with.html)
 
 * Week 7 - October 15 - Student Forensics Studies 1
-  * Udith
-  * Himarsha
-  * Jim 
-  * Kritika
+  * Udith -- [Amy Barrett - Link to People of Praise](https://github.com/phonedude/cs895-f20/tree/master/assignments/Prabhu/week-07-presentation)
+  * Himarsha -- [How well is Instagram archived?  A quantitative case study using Katy Perry’s Instagram account](https://github.com/phonedude/cs895-f20/tree/master/assignments/jayanetti/week-07-presentation/Data%26Code)
+  * Jim  -- [peopleofpraise.org](https://github.com/phonedude/cs895-f20/tree/master/assignments/Ecker/week-07-forensics-study-1)
+  * Kritika -- [Analyzing President Trump’s Tweets labeled by Twitter](https://github.com/phonedude/cs895-f20/blob/master/assignments/Kgarg/week-07-presentation/ForensicsStudiestPresentation1.md)
 
 * Week 8 - October 22 - Student Forensics Studies 2
-  * Shawn
-  * Grant
-  * Evan
-  * Valentina
+  * Shawn -- [Will the @realDonaldTrump please stand up?](https://github.com/phonedude/cs895-f20/tree/master/assignments/jones/week-08-forensics-study)
+  * Grant -- [Observations of 100 "Misleading" News Sites](https://github.com/phonedude/cs895-f20/tree/master/assignments/atkins/week-08-forensics-study-1)
+  * Evan -- [Digital Fitness Archiving - Amazon "Prime Bike"](https://github.com/phonedude/cs895-f20/tree/master/assignments/savaria/week-08-presentation)
+  * Valentina -- [Examining the news media’s treatment of the COVID-19 death milestones](https://github.com/phonedude/cs895-f20/tree/master/assignments/neblitt/week-08-forensics-study)
 
 * Week 9 - October 29 - Student Presentation 3
-  * Travis
-  * Udith
-  * Himarsha
-  * Jim
+  * Travis -- Amelia Acker, [Data Craft: The Manipulation of Social Media Metadata](https://datasociety.net/output/data-craft/), 2018.
+  * Udith -- Max Read, [How Much of the Internet Is Fake? Turns Out, a Lot of It, Actually](http://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html), New York Magazine, 2018.
+  * Himarsha -- Kate Starbird, Carly Miller, [Examining Twitter’s policy against election-related misinformation in action](https://www.eipartnership.net/news/twitters-policy-election-misinfo-in-action), 2020.
+  * Jim -- L Chai, D Bau, SN Lim, P Isola. [What makes fake images detectable? Understanding properties that generalize](https://chail.github.io/patch-forensics/), European Conference on Computer Vision, 2020.
 
 * Week 10 November 5 - Student Presentation 4
   * Kritika
