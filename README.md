@@ -87,10 +87,10 @@ Other forensics examples:
   * Jim -- L Chai, D Bau, SN Lim, P Isola. [What makes fake images detectable? Understanding properties that generalize](https://chail.github.io/patch-forensics/), European Conference on Computer Vision, 2020.
 
 * Week 10 November 5 - Student Presentation 4
-  * Kritika
-  * Grant
-  * Evan
-  * Shawn
+  * Kritika -- Sawood Alam, Plinio Vargas, Michele C. Weigle, Michael L. Nelson, [Impact of HTTP Cookie Violations in Web Archives](https://arxiv.org/abs/1906.07141), Technical Report arXiv:1906.07141, 2019.
+  * Grant -- Takuya Watanabe, Eitaro Shioji, Mitsuaki Akiyama, and Tatsuya Mori, [Melting Pot of Origins: Compromising the Intermediary Web Services that Rehost Websites](https://www.ndss-symposium.org/ndss-paper/melting-pot-of-origins-compromising-the-intermediary-web-services-that-rehost-websites/), Proceedings of NDSS 2020.
+  * Evan -- Jack Cushman, Ilya Kreymer, [Thinking like a hacker: Security Considerations for High-Fidelity Web Archives](http://labs.rhizome.org/presentations/security.html), 2017; Ada Lerner, Tadayoshi Kohno, Franziska Roesner, [Rewriting history: Changing the archived web from the present](https://acmccs.github.io/papers/p1741-lernerAT3.pdf), Proceedings of the 2017 ACM SIGSAC, 2017.
+  * Shawn -- Luca Luceri, Ashok Deb, Adam Badawy, Emilio Ferrara, [Red Bots Do It Better: Comparative Analysis of Social Bot Partisan Behavior](https://arxiv.org/abs/1902.02765), Technical Report arXiv:1902.02765, 2019.
 
 * Week 11 - November 12 - Student Forensics Studies 3
   * Harveen
@@ -125,6 +125,10 @@ Other forensics examples:
   * Peter
 
 ### Unassigned Readings (Subject to change; in no particular order; suggestions welcome)
+
+* Election Integrity Partnership Team, [Repeat Offenders: Voting Misinformation on Twitter in the 2020 United States Election](https://www.eipartnership.net/rapid-response/repeat-offenders), 2020.
+
+* Melanie Smith, [Interpreting Social Qs: Implications of the Evolution of QAnon](https://public-assets.graphika.com/reports/graphika_report_interpreting_social_qs.pdf), 2020.
 
 * Mary Huber, [Chinese Citizens Find Ways to Circumvent COVID-19 Censorship](https://medium.com/good-systems/chinese-citizens-find-ways-to-circumvent-covid-19-censorship-e8934e978158), 2020.
 
