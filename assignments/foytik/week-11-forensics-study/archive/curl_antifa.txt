@@ -1,0 +1,11 @@
+HTTP/1.1 302 Found
+Server: nginx
+Date: Tue, 10 Nov 2020 21:58:24 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 44
+Connection: keep-alive
+Location: https://joebiden.com/
+X-Served-By: Namecheap URL Forward
+
+<a href='https://joebiden.com/'>Found</a>.
+
