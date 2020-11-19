@@ -1,0 +1,53 @@
+twint commands
+
+twint -u Mvmnt4BlkLives --since 2016-05-06 --until 2016-09-08 --csv --hashtags --count --stats -o m4blfeed.csv
+
+
+twint -u Blklivesmatter --since 2016-05-06 --until 2016-09-08 --csv --hashtags --count --stats -o blmfeed.csv
+
+Memgator Commands
+
+docker container run -it --rm oduwsdl/memgator "https://www.facebook.com/events/1751718638376338/?active_tab=posts"
+docker container run -it --rm oduwsdl/memgator "https://www.facebook.com/blacktivists/photos/a.128374344172337.1073741827.128371547505950/295949624081474/?type=3&theater"
+docker container run -it --rm oduwsdl/memgator "https://www.facebook.com/events/1751718638376338/"
+docker container run -it --rm oduwsdl/memgator "https://www.facebook.com/blacktivists/photos/a.128374344172337.1073741827.128371547505950/296395767370193/?type=3&theater"
+docker container run -it --rm oduwsdl/memgator "https://www.facebook.com/events/1751718638376338/"
+docker container run -it --rm oduwsdl/memgator "https://www.facebook.com/blacktivists/photos/a.128374344172337.1073741827.128371547505950/299815940361509/?type=3&theater"
+docker container run -it --rm oduwsdl/memgator "https://www.facebook.com/blacktivists/photos/a.128374344172337.1073741827.128371547505950/304735079869595/?type=3&theater"
+docker container run -it --rm oduwsdl/memgator "https://www.facebook.com/blacktivists/photos/a.128374344172337.1073741827.128371547505950/290792234597213/?type=3&theater"
+docker container run -it --rm oduwsdl/memgator "https://www.facebook.com/blacktivists/photos/a.128374344172337.1073741827.128371547505950/290841644592272/?type=3"
+docker container run -it --rm oduwsdl/memgator "https://www.facebook.com/events/1751718638376338/?active_tab=posts"
+docker container run -it --rm oduwsdl/memgator "https://www.facebook.com/blacktivists/photos/a.128374344172337.1073741827.128371547505950/292953887714381/?type=3&theater"
+docker container run -it --rm oduwsdl/memgator "https://www.facebook.com/blacktivists/photos/a.128374344172337.1073741827.128371547505950/293372807672489/?type=3&theater"
+docker container run -it --rm oduwsdl/memgator "https://www.facebook.com/events/1751718638376338/?active_tab=posts"
+docker container run -it --rm oduwsdl/memgator "https://www.facebook.com/blacktivists/photos/a.128374344172337.1073741827.128371547505950/293833110959792/?type=3&theater"
+docker container run -it --rm oduwsdl/memgator "https://www.facebook.com/blacktivists/photos/a.128374344172337.1073741827.128371547505950/293441207665649/?type=3&theater"
+docker container run -it --rm oduwsdl/memgator "https://www.facebook.com/blacktivists/posts/293845137625256"
+docker container run -it --rm oduwsdl/memgator "https://www.facebook.com/blacktivists/videos/295593284117108/"
+docker container run -it --rm oduwsdl/memgator "https://www.facebook.com/blacktivists/photos/a.128374344172337.1073741827.128371547505950/294310654245371/?type=3&theater"
+
+
+
+CDX Commands
+
+curl "http://web.archive.org/cdx/search/cdx?url=https://www.facebook.com/events/1751718638376338/?active_tab=posts"
+curl "http://web.archive.org/cdx/search/cdx?url=https://www.facebook.com/blacktivists/photos/a.128374344172337.1073741827.128371547505950/295949624081474/?type=3&theater"
+curl "http://web.archive.org/cdx/search/cdx?url=https://www.facebook.com/events/1751718638376338/"
+curl "http://web.archive.org/cdx/search/cdx?url=https://www.facebook.com/blacktivists/photos/a.128374344172337.1073741827.128371547505950/296395767370193/?type=3&theater"
+curl "http://web.archive.org/cdx/search/cdx?url=https://www.facebook.com/events/1751718638376338/"
+curl "http://web.archive.org/cdx/search/cdx?url=https://www.facebook.com/blacktivists/photos/a.128374344172337.1073741827.128371547505950/299815940361509/?type=3&theater"
+curl "http://web.archive.org/cdx/search/cdx?url=https://www.facebook.com/blacktivists/photos/a.128374344172337.1073741827.128371547505950/304735079869595/?type=3&theater"
+curl "http://web.archive.org/cdx/search/cdx?url=https://www.facebook.com/blacktivists/photos/a.128374344172337.1073741827.128371547505950/290792234597213/?type=3&theater"
+curl "http://web.archive.org/cdx/search/cdx?url=https://www.facebook.com/blacktivists/photos/a.128374344172337.1073741827.128371547505950/290841644592272/?type=3"
+curl "http://web.archive.org/cdx/search/cdx?url=https://www.facebook.com/events/1751718638376338/?active_tab=posts"
+curl "http://web.archive.org/cdx/search/cdx?url=https://www.facebook.com/blacktivists/photos/a.128374344172337.1073741827.128371547505950/292953887714381/?type=3&theater"
+curl "http://web.archive.org/cdx/search/cdx?url=https://www.facebook.com/blacktivists/photos/a.128374344172337.1073741827.128371547505950/293372807672489/?type=3&theater"
+curl "http://web.archive.org/cdx/search/cdx?url=https://www.facebook.com/events/1751718638376338/?active_tab=posts"
+curl "http://web.archive.org/cdx/search/cdx?url=https://www.facebook.com/blacktivists/photos/a.128374344172337.1073741827.128371547505950/293833110959792/?type=3&theater"
+curl "http://web.archive.org/cdx/search/cdx?url=https://www.facebook.com/blacktivists/photos/a.128374344172337.1073741827.128371547505950/293441207665649/?type=3&theater"
+curl "http://web.archive.org/cdx/search/cdx?url=https://www.facebook.com/blacktivists/posts/293845137625256"
+curl "http://web.archive.org/cdx/search/cdx?url=https://www.facebook.com/blacktivists/videos/295593284117108/"
+curl "http://web.archive.org/cdx/search/cdx?url=https://www.facebook.com/blacktivists/photos/a.128374344172337.1073741827.128371547505950/294310654245371/?type=3&theater"
+
+
+curl "http://web.archive.org/cdx/search/cdx?matchType=prefix&url=https://www.facebook.com/blacktivists"

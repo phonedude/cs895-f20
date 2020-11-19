@@ -1,0 +1,30 @@
+Formulas
+
+=COUNTIF(Analysis!D:D,A1)
+
+=COUNTIF(blm_raw!A:A,A1)
+
+=COUNTIF(m4bl_raw!A:A,A1)
+
+=COUNTIF(blacktivist_raw!A:A,A1)
+
+
+Using System 2
+
+The week containing the first Thursday of the year is the first week of the year, and is numbered as week 1. This system is the methodology specified in ISO 8601, which is commonly known as the European week numbering system.
+
+https://support.microsoft.com/en-us/office/weeknum-function-e5c43a03-b4ab-426c-b411-b18c13c75340
+
+Week Numbers
+=WEEKNUM(A2,2)
+=WEEKNUM(G2,2)
+
+=COUNTIF(B:B,30)
+
+=COUNTIF(C:C,19)
+=COUNTIF(C:C,30)
+
+^(?:[\t ]*(?:\r?\n|\r))+
+
+
+=IF(NOT(ISBLANK(Blacktivist!E2)), "contains link", "")
