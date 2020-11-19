@@ -6,4 +6,4 @@ Article - [https://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-f
 
 ## Presentation
 
-Google Sheets - [https://docs.google.com/presentation/d/1G4ynaVmRalI8hevODMuJ-tT6sFo5QIzZYGexsJzN1-g/edit?usp=sharing](https://docs.google.com/presentation/d/1G4ynaVmRalI8hevODMuJ-tT6sFo5QIzZYGexsJzN1-g/edit?usp=sharing)
+Google Slides - [https://docs.google.com/presentation/d/1G4ynaVmRalI8hevODMuJ-tT6sFo5QIzZYGexsJzN1-g/edit?usp=sharing](https://docs.google.com/presentation/d/1G4ynaVmRalI8hevODMuJ-tT6sFo5QIzZYGexsJzN1-g/edit?usp=sharing)
