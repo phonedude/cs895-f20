@@ -130,7 +130,7 @@ Other forensics examples:
 
 * Melanie Smith, [Interpreting Social Qs: Implications of the Evolution of QAnon](https://public-assets.graphika.com/reports/graphika_report_interpreting_social_qs.pdf), 2020.
 
-* Mary Huber, [Chinese Citizens Find Ways to Circumvent COVID-19 Censorship](https://medium.com/good-systems/chinese-citizens-find-ways-to-circumvent-covid-19-censorship-e8934e978158), 2020.
+* Mary Huber, [Chinese Citizens Find Ways to Circumvent COVID-19 Censorship](https://medium.com/good-systems/chinese-citizens-find-ways-to-circumvent-covid-19-censorship-e8934e978158), 2020; Amelia Acker, [Platforms, Community Archives and Remembering the Pandemic](https://globalmedia.mit.edu/2020/06/09/platforms-community-archives-and-remembering-the-pandemic/), 2020.
 
 * Donie O'Sullivan, [How We Proved That the Biggest Black Lives Matter Page on Facebook Was Fake](https://gijn.org/2020/08/31/how-we-proved-that-the-biggest-black-lives-matter-page-on-facebook-was-fake/), 2020.
 
