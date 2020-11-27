@@ -93,16 +93,16 @@ Other forensics examples:
   * Shawn -- Luca Luceri, Ashok Deb, Adam Badawy, Emilio Ferrara, [Red Bots Do It Better: Comparative Analysis of Social Bot Partisan Behavior](https://arxiv.org/abs/1902.02765), Technical Report arXiv:1902.02765, 2019.
 
 * Week 11 - November 12 - Student Forensics Studies 3
-  * Harveen
-  * Peter
-  * Himarsha
-  * Shawn
+  * Harveen -- [Analysis of a website taken down on claims of instigating violence](https://github.com/phonedude/cs895-f20/tree/master/assignments/Kaur/week-11-presentation)
+  * Peter -- [Domain Squatting Attack: Antifa.com Pointing to JoeBiden.com](https://github.com/phonedude/cs895-f20/tree/master/assignments/foytik/week-11-forensics-study)
+  * Himarsha -- [Are likely 2024 presidential candidates deleting their tweets?](https://github.com/phonedude/cs895-f20/tree/master/assignments/jayanetti/week-11-presentation)
+  * Shawn -- [Spikes in 8chan Boards: the View from Web Archives](https://github.com/phonedude/cs895-f20/tree/master/assignments/jones/week-11-forensics-study)
 
 * Week 12 - November 19 - Student Forensics Studies 4
-  * Travis
-  * Evan
-  * Valentina
-  * Udith
+  * Travis -- 
+  * Evan -- [Is the World Health Organization (WHO) Influenced by Political Power?](https://github.com/phonedude/cs895-f20/tree/master/assignments/savaria/week-12-presentation)
+  * Valentina -- [Black Lives in the Twitterverse](https://github.com/phonedude/cs895-f20/tree/master/assignments/neblitt/week-12-forensics-study)
+  * Udith -- [Co-opting of #SaveTheChildren](https://github.com/phonedude/cs895-f20/tree/master/assignments/Prabhu/week-12-presentation)
 
 * Week 13 - November 26 - Thanksgiving Holiday -- no class
 
