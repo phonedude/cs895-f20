@@ -218,6 +218,8 @@ Other forensics examples:
 
 * Anat Ben-David, [What does the Web remember of its deleted past? An archival reconstruction of the former Yugoslav top-level domain](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=113132726174736225), New Media & Society, 18(7), 2016.
 
+* Farhan Asif Chowdhury, Lawrence Allen, Mohammad Yousuf, Abdullah Mueen, [On Twitter Purge: A Retrospective Analysis of Suspended Users](https://www.cs.unm.edu/~aumyfarhan1/publication/twitterpurge/), 4th International Workshop on Mining Actionable Insights from Social Networks, 2020.
+
 ### Current Events
 * [#cs895f20](https://twitter.com/search?q=%23cs895f20&src=typd&f=live&vertical=default)
 
