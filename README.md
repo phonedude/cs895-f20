@@ -107,14 +107,14 @@ Other forensics examples:
 * Week 13 - November 26 - Thanksgiving Holiday -- no class
 
 * Week 14 - December 3 - Student Presentation 5
-  * Peter
-  * Himarsha
-  * Jim
+  * Peter -- [Chinese Citizens Find Ways to Circumvent Covid-19 Censorship](https://github.com/phonedude/cs895-f20/tree/master/assignments/foytik/week-14-presentation)
+  * Himarsha -- [The weaponization of web archives: Data craft and COVID-19 publics](The weaponization of web archives: Data craft and COVID-19 publics)
+  * Jim -- [How Archivists Could Stop Deepfakes From Rewriting History](https://github.com/phonedude/cs895-f20/tree/master/assignments/Ecker/week-14-how-can-archvists-stop-history-rewritten)
 
 * Week 15 - December 10 - Student Presentation 6
-  * Harveen
-  * Valentina
-  * Udith
+  * Harveen -- [Grampa, what’s a deleted tweet? and Delete Forensics](https://github.com/phonedude/cs895-f20/tree/master/assignments/Kaur/week-15-presentation)
+  * Valentina -- 
+  * Udith -- [Follower Factory](https://github.com/phonedude/cs895-f20/tree/master/assignments/Prabhu/week-15-presentation)
 
 * Week 16 - December 17 - Student Forensics Studies 5
   * Jim
