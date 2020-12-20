@@ -99,7 +99,7 @@ Other forensics examples:
   * Shawn -- [Spikes in 8chan Boards: the View from Web Archives](https://github.com/phonedude/cs895-f20/tree/master/assignments/jones/week-11-forensics-study)
 
 * Week 12 - November 19 - Student Forensics Studies 4
-  * Travis -- 
+  * Travis -- [Finding The Nintendo Gigaleaks](https://github.com/phonedude/cs895-f20/tree/master/assignments/reid/week-12-forensics-study)
   * Evan -- [Is the World Health Organization (WHO) Influenced by Political Power?](https://github.com/phonedude/cs895-f20/tree/master/assignments/savaria/week-12-presentation)
   * Valentina -- [Black Lives in the Twitterverse](https://github.com/phonedude/cs895-f20/tree/master/assignments/neblitt/week-12-forensics-study)
   * Udith -- [Co-opting of #SaveTheChildren](https://github.com/phonedude/cs895-f20/tree/master/assignments/Prabhu/week-12-presentation)
@@ -113,18 +113,18 @@ Other forensics examples:
 
 * Week 15 - December 10 - Student Presentation 6
   * Harveen -- [Grampa, what’s a deleted tweet? and Delete Forensics](https://github.com/phonedude/cs895-f20/tree/master/assignments/Kaur/week-15-presentation)
-  * Valentina -- 
+  * Valentina -- [Blacktivists in the Archive](https://github.com/phonedude/cs895-f20/tree/master/assignments/neblitt/week-15-presentation)
   * Udith -- [Follower Factory](https://github.com/phonedude/cs895-f20/tree/master/assignments/Prabhu/week-15-presentation)
 
 * Week 16 - December 17 - Student Forensics Studies 5
-  * Jim
-  * Travis
-  * Kritika
-  * Harveen
-  * Grant
-  * Peter
+  * Jim -- [Analyzing the War over Diversity and Ethics in the AI Community](https://github.com/phonedude/cs895-f20/tree/master/assignments/Ecker/week-16-forensics-study-2)
+  * Travis -- [Finding JennaMarbles’s Deleted/Private YouTube Videos](https://github.com/phonedude/cs895-f20/tree/master/assignments/reid/week-16-forensics-study)
+  * Kritika -- [Analyzing hashtag squatting by K-pop stans](https://github.com/phonedude/cs895-f20/tree/master/assignments/Kgarg/week-16-presentation)
+  * Harveen -- [Neera Tanden deletes tweets that criticized U.S. senators](https://github.com/phonedude/cs895-f20/tree/master/assignments/Kaur/week-16-presentation)
+  * Grant -- [Tracking Narratives on Election Fraud](https://github.com/phonedude/cs895-f20/tree/master/assignments/atkins/week-16-forensics-study-2)
+  * Peter -- [BidenCheated Hashtag spread on Twitter](https://github.com/phonedude/cs895-f20/tree/master/assignments/foytik/week-16-forensics-study)
 
-### Unassigned Readings (Subject to change; in no particular order; suggestions welcome)
+### Readings (Subject to change; in no particular order; suggestions welcome)
 
 * Election Integrity Partnership Team, [Repeat Offenders: Voting Misinformation on Twitter in the 2020 United States Election](https://www.eipartnership.net/rapid-response/repeat-offenders), 2020.
 
