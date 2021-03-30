@@ -11,7 +11,7 @@ Johns Hopkins University COVID-19 Dashboard and CDC COVID-19 Data Tracker. Used 
 
 3. Inspected the captures from the Wayback Machine for each of the news sources near the dates determined in Step 2 to find the first occurrence of a milestone story. Results are in the `logs` folder
 
-4. Identify and rank the parts of the captures found. Consulted ["Measuring News Similarity Across Ten U.S. News Sites"](https://arxiv.org/abs/1806.09082) for ideas.
+4. Identified and ranked the parts of the captures found. Consulted ["Measuring News Similarity Across Ten U.S. News Sites"](https://arxiv.org/abs/1806.09082) for ideas.
 
 5. Treated the captures like search engine result pages and calculated Mean Reciprocal Rank (MRR), precision, and Normalized Discounted Cumulative Gain (nDCG) for each capture. Calculated MRR and precision by hand. Used a Jupyter notebook for nDCG (`Notebooks`). Instructions for using [sklearn.metrics.ndcg_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.ndcg_score.html).
 
