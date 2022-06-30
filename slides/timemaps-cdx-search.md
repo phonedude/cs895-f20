@@ -81,10 +81,10 @@ curl https://archive.is/timemap/https://twitter.com/SputnikNewsUS
 <http://archive.md/timemap/https://twitter.com/SputnikNewsUS>; rel="self"; type="application/link-format"; from="Sun, 31 May 2015 15:40:01 GMT"; until="Sun, 31 May 2015 15:40:01 GMT"
 ```
 
-And here is a request to [MemGator](http://memgator.cs.odu.edu/), which aggregates access to 16 different public web archives:
+And here is a request to [MemGator](https://memgator.cs.odu.edu/), which aggregates access to 16 different public web archives:
 
 ```
-curl -s http://memgator.cs.odu.edu/timemap/link/https://twitter.com/SputnikNewsUS | head 
+curl -s https://memgator.cs.odu.edu/timemap/link/https://twitter.com/SputnikNewsUS | head 
 <https://twitter.com/SputnikNewsUS>; rel="original",
 <https://memgator.cs.odu.edu/timemap/link/https://twitter.com/SputnikNewsUS>; rel="self"; type="application/link-format",
 <https://wayback.archive-it.org/all/20141203234550/https://twitter.com/SputnikNewsUS>; rel="first memento"; datetime="Wed, 03 Dec 2014 23:45:50 GMT",
@@ -100,7 +100,7 @@ curl -s http://memgator.cs.odu.edu/timemap/link/https://twitter.com/SputnikNewsU
 This request shows only the versions *not* at the IA (`grep datetime` selects only memento lines (no `rel="self"` etc. lines), and `grep -v web.archive.org` filters out IA mementos):
 
 ```
-curl -s http://memgator.cs.odu.edu/timemap/link/https://twitter.com/SputnikNewsUS | grep datetime | grep -v web.archive.org | head
+curl -s https://memgator.cs.odu.edu/timemap/link/https://twitter.com/SputnikNewsUS | grep datetime | grep -v web.archive.org | head
 <https://wayback.archive-it.org/all/20141203234550/https://twitter.com/SputnikNewsUS>; rel="first memento"; datetime="Wed, 03 Dec 2014 23:45:50 GMT",
 <https://wayback.archive-it.org/all/20141216130302/http://twitter.com/SputnikNewsUS>; rel="memento"; datetime="Tue, 16 Dec 2014 13:03:02 GMT",
 <https://wayback.archive-it.org/all/20141216130304/https://twitter.com/SputnikNewsUS>; rel="memento"; datetime="Tue, 16 Dec 2014 13:03:04 GMT",
@@ -116,7 +116,7 @@ curl -s http://memgator.cs.odu.edu/timemap/link/https://twitter.com/SputnikNewsU
 This request shows how many copies are in which archives:
 
 ```
-curl -s http://memgator.cs.odu.edu/timemap/link/https://twitter.com/SputnikNewsUS | grep datetime | awk '{print $1}' | awk -v FS=/ '{print $3}' | sort | uniq -c | sort -n
+curl -s https://memgator.cs.odu.edu/timemap/link/https://twitter.com/SputnikNewsUS | grep datetime | awk '{print $1}' | awk -v FS=/ '{print $3}' | sort | uniq -c | sort -n
       1 archive.md
       1 www.webarchive.org.uk
      27 wayback.archive-it.org
@@ -126,7 +126,7 @@ curl -s http://memgator.cs.odu.edu/timemap/link/https://twitter.com/SputnikNewsU
 Note that MemGator supports other formats, such as json:
 
 ```
-curl -s http://memgator.cs.odu.edu/timemap/json/https://twitter.com/SputnikNewsUS | head -17
+curl -s https://memgator.cs.odu.edu/timemap/json/https://twitter.com/SputnikNewsUS | head -17
 {
   "original_uri": "https://twitter.com/SputnikNewsUS",
   "self": "https://memgator.cs.odu.edu/timemap/json/https://twitter.com/SputnikNewsUS",
@@ -164,13 +164,13 @@ https://twitter.com/SputnikNewsUS?lang=en
 Since the individual web archives do not know to canonicalize the two above URIs into a single URI, they are indexed differently, leading to different TimeMaps.  In fact, Twitter has support for 47 different languages, meaning we have to dereference many different TimeMap URIs to find all the copies:
 
 ```
-curl -s "http://memgator.cs.odu.edu/timemap/link/https://twitter.com/SputnikNewsUS" | grep datetime | wc -l
+curl -s "https://memgator.cs.odu.edu/timemap/link/https://twitter.com/SputnikNewsUS" | grep datetime | wc -l
 102
-curl -s "http://memgator.cs.odu.edu/timemap/link/https://twitter.com/SputnikNewsUS?lang=en" | grep datetime | wc -l
+curl -s "https://memgator.cs.odu.edu/timemap/link/https://twitter.com/SputnikNewsUS?lang=en" | grep datetime | wc -l
 7
-curl -s "http://memgator.cs.odu.edu/timemap/link/https://twitter.com/SputnikNewsUS?lang=fr" | grep datetime | wc -l
+curl -s "https://memgator.cs.odu.edu/timemap/link/https://twitter.com/SputnikNewsUS?lang=fr" | grep datetime | wc -l
 6
-curl -s "http://memgator.cs.odu.edu/timemap/link/https://twitter.com/SputnikNewsUS?lang=de" | grep datetime | wc -l
+curl -s "https://memgator.cs.odu.edu/timemap/link/https://twitter.com/SputnikNewsUS?lang=de" | grep datetime | wc -l
 5
 ```
 
